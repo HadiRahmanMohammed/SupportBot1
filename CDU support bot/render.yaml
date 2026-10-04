@@ -1,0 +1,26 @@
+# One-click deploy on Render: New > Blueprint > select this repo.
+services:
+  - type: web
+    name: cdu-student-assistant
+    runtime: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn wsgi:app --workers 2 --threads 4 --bind 0.0.0.0:$PORT --timeout 30
+    healthCheckPath: /healthz
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.12.7
+      - key: ANSWER_THRESHOLD
+        value: "0.45"
+      - key: CLARIFY_THRESHOLD
+        value: "0.24"
+      - key: SHOW_UNAPPROVED
+        value: "true"
+      - key: LOG_INTERACTIONS
+        value: "false"
+      - key: RATE_LIMIT_PER_MIN
+        value: "30"
+      - key: ADMIN_TOKEN          # password for /admin; Render generates a random one
+        generateValue: true
+      - key: BRAND_NAME
+        value: CDU Student Support

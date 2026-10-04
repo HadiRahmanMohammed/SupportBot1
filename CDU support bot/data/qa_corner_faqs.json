@@ -1,0 +1,156 @@
+{
+  "description": "Team-drafted entries for topics first-year students ask about often in the New Student Q&A Corner but that no official FAQ covers. Drafted only from staff replies to the development half of the Q&A Corner (even question ids), with names and personal details removed. Not yet approved: each needs Student Success staff sign-off before go-live.",
+  "faqs": [
+    {
+      "id": "placements-inplace",
+      "category": "Placements",
+      "level": "university",
+      "question": "How do I find InPlace and book my placement or Sim Block?",
+      "alternatives": [
+        "where is InPlace in the portal",
+        "I can't find the placement app",
+        "how do I book my simulation block",
+        "nominate dates for sim block",
+        "when will my placement start and who do I contact",
+        "placement to-do list not showing in InPlace",
+        "nursing placement booking"
+      ],
+      "answer": "Placements and Simulation Blocks (Sim Blocks) are managed in **InPlace**. Log in to the **CDU Portal**, open **My Apps** and choose **Placements (InPlace)**.\n\n- InPlace updates within about **24 hours** of you enrolling in the placement or Sim Block unit. You'll then see a notification to book your spot.\n- Nursing students can also find Sim Block details in the **School of Nursing** unit in Learnline.\n- For anything else about your placement, contact the **placements team** for your course.\n\nIf Placements isn't in your My Apps list, contact **Student Central** on **1800 061 963**.",
+      "links": [
+        {"label": "Health placements", "url": "https://www.cdu.edu.au/health/student-experience/placements-work-integrated-learning"},
+        {"label": "Education placements", "url": "https://www.cdu.edu.au/arts-society/education/inschool-education-placements"}
+      ],
+      "source": {"doc": "QACORNER", "page": null},
+      "approved": false,
+      "review_flag": "Drafted from staff replies in the New Student Q&A Corner. Needs Student Success staff sign-off."
+    },
+    {
+      "id": "online-attendance",
+      "category": "My units",
+      "level": "university",
+      "question": "Do I have to attend classes live if I study online?",
+      "alternatives": [
+        "are lectures recorded so I can watch later",
+        "I work full time and can't attend live tutorials",
+        "is attendance compulsory for external students",
+        "can I watch the lecture the next morning",
+        "my classes clash with work",
+        "how does attendance work online"
+      ],
+      "answer": "Most lectures and tutorials are **recorded**, so you can watch them later in **Learnline**. Open your unit and look under **Collaborate**.\n\nFor external (online) students, live attendance usually isn't compulsory. Some units do have required live sessions, though, so check your unit's Learnline site when it opens in O-Week.\n\nIf you can't make a class, let your **lecturer or unit coordinator** know.",
+      "links": [],
+      "source": {"doc": "QACORNER", "page": null},
+      "approved": false,
+      "review_flag": "Drafted from staff replies in the New Student Q&A Corner. Needs Student Success staff sign-off."
+    },
+    {
+      "id": "timetable-time-zone",
+      "category": "Enrolment and study plans",
+      "level": "university",
+      "question": "Are my class times in Darwin time or my local time?",
+      "alternatives": [
+        "is my timetable in NT time",
+        "what time zone is the timetable in",
+        "I live interstate, which time are my classes",
+        "timetable Brisbane time or Darwin time"
+      ],
+      "answer": "Timetables are published in **Darwin (NT) time**, but the Portal timetable and Learnline convert class times to **your computer's time zone**.\n\nSo if your computer is set to Queensland time, your timetable shows Queensland time. If you're unsure, check with your lecturer.",
+      "links": [],
+      "source": {"doc": "QACORNER", "page": null},
+      "approved": false,
+      "review_flag": "Drafted from staff replies in the New Student Q&A Corner. Needs Student Success staff sign-off."
+    },
+    {
+      "id": "timetable-not-ready",
+      "category": "Enrolment and study plans",
+      "level": "university",
+      "question": "Why is my timetable empty or still changing?",
+      "alternatives": [
+        "my classes aren't showing on my timetable yet",
+        "when will my class timetable be confirmed",
+        "classes on my timetable keep changing",
+        "I can't see anything on my timetable"
+      ],
+      "answer": "Not all classes are confirmed early on. Timetables come out progressively and are all out **before Week 1**, and some units are still being finalised until then. Check your timetable about **once a week** for updates.\n\nIf it's still not appearing after you've followed the **New to CDU checklist**, and it's urgent, contact the **Timetable team**.",
+      "links": [
+        {"label": "Timetable", "url": "https://timetable.cdu.edu.au/"}
+      ],
+      "source": {"doc": "QACORNER", "page": null},
+      "approved": false,
+      "review_flag": "Drafted from staff replies in the New Student Q&A Corner. Needs Student Success staff sign-off."
+    },
+    {
+      "id": "units-not-open",
+      "category": "My units",
+      "level": "university",
+      "question": "Why can't I see my units or their content in Learnline yet?",
+      "alternatives": [
+        "when will my units open on Learnline",
+        "I enrolled but can't access my units",
+        "my unit modules are empty after week 2",
+        "unit content is locked",
+        "registered for units but no access"
+      ],
+      "answer": "Units usually open in Learnline around **O-Week**, and lecturers often release content **week by week**, so later weeks can look empty for now.\n\nFor questions about a unit's content, contact your **unit coordinator**. If you're enrolled but a unit doesn't appear at all, contact **Student Central** on **1800 061 963** or **student.central@cdu.edu.au**.",
+      "links": [],
+      "source": {"doc": "QACORNER", "page": null},
+      "approved": false,
+      "review_flag": "Drafted from staff replies in the New Student Q&A Corner. Needs Student Success staff sign-off."
+    },
+    {
+      "id": "study-load",
+      "category": "Enrolment and study plans",
+      "level": "university",
+      "question": "Am I studying full-time or part-time, and how many units should I take?",
+      "alternatives": [
+        "how do I know if I'm full time or part time",
+        "how many units is full time",
+        "I'm part time, do I just pick two units from my study plan",
+        "study load per semester",
+        "do I enrol for the whole year or just the semester"
+      ],
+      "answer": "Usually **2 units or fewer** in a semester is **part-time**. A full-time load is more than that, typically **4 units** per semester.\n\nTo check your study load, log in to the **CDU Portal**, then go to **My Apps > MyStudentInfo > Enrolment**. You only need to enrol for the **upcoming semester**, not the whole year.\n\nStudy plans work for part-time study too. If you're not sure which units to pick, contact **Student Central** on **1800 061 963**.",
+      "links": [],
+      "source": {"doc": "QACORNER", "page": null},
+      "approved": false,
+      "review_flag": "Drafted from staff replies in the New Student Q&A Corner. Needs Student Success staff sign-off. International students: visa study-load rules also apply."
+    },
+    {
+      "id": "orientation-attend",
+      "category": "Getting started",
+      "level": "university",
+      "question": "Can I come to orientation on campus if I study online?",
+      "alternatives": [
+        "online students attend orientation in person",
+        "do new students get a welcome pack",
+        "where do I get my welcome pack",
+        "can external students go to O-Week",
+        "can I attend lectures on campus as an online student"
+      ],
+      "answer": "Yes. **All students are welcome** at in-person orientation, events and lectures, including online students.\n\nWelcome packs are handed out at **in-person orientation**, so come along to collect yours.",
+      "links": [
+        {"label": "Orientation", "url": "https://www.cdu.edu.au/orientation"}
+      ],
+      "source": {"doc": "QACORNER", "page": null},
+      "approved": false,
+      "review_flag": "Drafted from staff replies in the New Student Q&A Corner. Needs Student Success staff sign-off."
+    },
+    {
+      "id": "student-card-online",
+      "category": "Getting started",
+      "level": "university",
+      "question": "How do I get a student card if I study online?",
+      "alternatives": [
+        "apply for a student card in the portal",
+        "student card for external students",
+        "I live overseas, how do I get my student card",
+        "student card eForm"
+      ],
+      "answer": "You can apply online. Log in to the **CDU Portal**, open **eForms** and choose **Student Card** (near the bottom).\n\nIf you live overseas, email **Student Central** at **student.central@cdu.edu.au** to ask for a digital copy, as they may not be able to post a card overseas.",
+      "links": [],
+      "source": {"doc": "QACORNER", "page": null},
+      "approved": false,
+      "review_flag": "Drafted from staff replies in the New Student Q&A Corner. Needs Student Success staff sign-off."
+    }
+  ]
+}

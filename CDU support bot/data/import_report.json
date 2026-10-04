@@ -1,0 +1,2113 @@
+{
+  "kept": [
+    {
+      "id": "lib-transfer-endnote-library-another-computer",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How can I transfer my EndNote Library to another computer?"
+    },
+    {
+      "id": "lib-open-journal-article-without-pdf-link",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How do I open a journal article without a PDF link?"
+    },
+    {
+      "id": "lib-find-statistics-australia",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Where can I find statistics for Australia?"
+    },
+    {
+      "id": "lib-report-building-problem",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How can I report a building problem?"
+    },
+    {
+      "id": "lib-create-hanging-indent",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How do I create a Hanging Indent?"
+    },
+    {
+      "id": "lib-find-particular-cdu-policy",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Where can I find a particular CDU policy?"
+    },
+    {
+      "id": "lib-get-food",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Where can I get food?"
+    },
+    {
+      "id": "lib-find-ebooks",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How do I find eBooks?"
+    },
+    {
+      "id": "lib-password-library-databases",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "What is the password for the library databases?"
+    },
+    {
+      "id": "lib-census-date-when-it",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "What is census date, and when is it?"
+    },
+    {
+      "id": "lib-find-save-articles-library-search",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How do I find and save articles in Library Search?"
+    },
+    {
+      "id": "lib-why-won-t-endnote-finish-installing",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Why won't EndNote finish installing on Windows?"
+    },
+    {
+      "id": "lib-access-online-magazines",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Where can I access online magazines?"
+    },
+    {
+      "id": "lib-permalink",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "What is a Permalink?"
+    },
+    {
+      "id": "lib-apply-graduate-when-finish-course",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How do I apply to graduate when I finish my course?"
+    },
+    {
+      "id": "lib-charge-phone-laptop",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Where can I charge my phone or laptop?"
+    },
+    {
+      "id": "lib-make-file-small-enough-email",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How do I make a file small enough to email?"
+    },
+    {
+      "id": "lib-buy-books",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Where can I buy books?"
+    },
+    {
+      "id": "lib-find-lecturer-s-office",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How do I find my lecturer's office?"
+    },
+    {
+      "id": "lib-books-casuarina-library",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Where are the books in the Casuarina Library?"
+    },
+    {
+      "id": "lib-if-full-text-article-isn-t",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "What do I do if the full text of an article isn't available?"
+    },
+    {
+      "id": "lib-find-peer-reviewed-articles",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How can I find peer reviewed articles?"
+    },
+    {
+      "id": "lib-find-out-if-unit-next-semester",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How can I find out if my unit next semester has a prescribed text?"
+    },
+    {
+      "id": "lib-access-spss-nvivo-software",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How do I access SPSS and NVIVO software?"
+    },
+    {
+      "id": "lib-students-borrow-laptops",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Can students borrow laptops?"
+    },
+    {
+      "id": "lib-request-book-from-another-cdu-campus",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How do I request a book from another CDU campus?"
+    },
+    {
+      "id": "lib-why-does-library-have-fines",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Why does the library have fines?"
+    },
+    {
+      "id": "lib-mandatory-academic-integrity-module",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "What is the mandatory Academic Integrity Module?"
+    },
+    {
+      "id": "lib-s-at-city-campus-danala-when",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "What's at the City campus (Danala) and when is it open?"
+    },
+    {
+      "id": "lib-find-out-if-journal-peer-reviewed",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How can I find out if a journal is peer reviewed?"
+    },
+    {
+      "id": "lib-stop-endnote-from-assuming-that-every",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How can I stop EndNote from assuming that every bracket / parenthesis is an in-text citation?"
+    },
+    {
+      "id": "lib-use-endnote-open-url",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How do I use EndNote Open URL?"
+    },
+    {
+      "id": "lib-doi-find-it",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "What is a DOI and where can I find it?"
+    },
+    {
+      "id": "lib-choose-best-resources-assignment-know-if",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How do I choose the best resources for my assignment; how do I know if they are quality resources?"
+    },
+    {
+      "id": "lib-change-pc-screen-orientation",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How to change PC screen orientation?"
+    },
+    {
+      "id": "lib-plug-hdmi-cable-into-library-computers",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Can I plug a HDMI cable into the Library Computers?"
+    },
+    {
+      "id": "lib-find-course-information",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Where do I find course information?"
+    },
+    {
+      "id": "lib-update-details-change-name-on-student",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How do I update my details or change my name on my student record?"
+    },
+    {
+      "id": "lib-why-t-access-ebook",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Why can't I access an eBook?"
+    },
+    {
+      "id": "lib-we-have-textbooks",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Do we have textbooks?"
+    },
+    {
+      "id": "lib-write-annotated-bibliography",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How do I write an annotated bibliography?"
+    },
+    {
+      "id": "lib-have-lost-library-book",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "I have lost a library book, what do I do?"
+    },
+    {
+      "id": "lib-use-someone-else-s-card-borrow",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Can I use someone else's card to borrow?"
+    },
+    {
+      "id": "lib-printers",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Where are the printers?"
+    },
+    {
+      "id": "lib-pay-fees",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How do I pay my fees?"
+    },
+    {
+      "id": "lib-check-many-books-have-on-loan",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How can I check how many books I have on loan and when they are due?"
+    },
+    {
+      "id": "lib-couldn-t-return-overdue-books-on",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "I couldn't return my overdue books on time because I was sick, what can I do?"
+    },
+    {
+      "id": "lib-endnote-has-started-showing-references-like",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "EndNote has started showing my references like this {Smith, 2021 #4}. What do I do?"
+    },
+    {
+      "id": "lib-chrome-blocking-endnote-download",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Chrome is blocking my EndNote download. What do I do?"
+    },
+    {
+      "id": "lib-insert-organisation-s-acronym-apa-text",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How do I insert an organisation's acronym in my APA in-text citations using EndNote?"
+    },
+    {
+      "id": "lib-why-endnote-references-strange-font-spacing",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Why are my EndNote references in a strange font or spacing?"
+    },
+    {
+      "id": "lib-get-error-installing-endnote-on-mac",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "I get an error installing EndNote on my Mac. What do I do?"
+    },
+    {
+      "id": "lib-report-broken-link-library-search",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How do I report a broken link in Library Search?"
+    },
+    {
+      "id": "lib-will-know-difference-between-journal-article",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How will I know the difference between a journal article and a document from a website?"
+    },
+    {
+      "id": "lib-endnote-toolbar-has-disappeared-from-word",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "My EndNote toolbar has disappeared from Word. How do I get it back?"
+    },
+    {
+      "id": "lib-find-out-about-apa-7th-referencing",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How do I find out about APA 7th referencing?"
+    },
+    {
+      "id": "lib-download-change-endnote-styles",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How do I download and/or change EndNote styles?"
+    },
+    {
+      "id": "lib-apply-cdu-as-international-student",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How do I apply to CDU as an international student?"
+    },
+    {
+      "id": "lib-when-final-results-available",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "When are my final results available?"
+    },
+    {
+      "id": "lib-access-unit-reading-list",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How do I access my unit reading list?"
+    },
+    {
+      "id": "lib-get-office-365",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How do I get Office 365?"
+    },
+    {
+      "id": "lib-scan-without-cdu-account",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Can I scan without a CDU account?"
+    },
+    {
+      "id": "lib-print-settings-mean",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "What do the print settings mean?"
+    },
+    {
+      "id": "lib-upload-download-from-onedrive",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How do I upload to and download from OneDrive?"
+    },
+    {
+      "id": "lib-why-has-book-borrowed-been-recalled",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Why has a book I borrowed been recalled?"
+    },
+    {
+      "id": "lib-find-out-which-databases-best-find",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How do I find out which databases are best to find resources for an assignment?"
+    },
+    {
+      "id": "lib-type-yol-u-characters-on-library",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How do I type Yolŋu characters on a library computer?"
+    },
+    {
+      "id": "lib-parents-carers-rooms-breastfeed",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Where are the Parents and Carers Rooms/Where can I breastfeed?"
+    },
+    {
+      "id": "lib-use-accessibility-mode-ebook-central",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How do I use accessibility mode in Ebook Central?"
+    },
+    {
+      "id": "lib-book-appointment",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How do I book an appointment?"
+    },
+    {
+      "id": "lib-find-newspaper-articles",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How do I find newspaper articles?"
+    },
+    {
+      "id": "lib-clear-browser-cache",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How do I clear my browser cache?"
+    },
+    {
+      "id": "lib-let-someone-else-borrow-with-student",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Can I let someone else borrow with my student card?"
+    },
+    {
+      "id": "lib-find-student-email",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How do I find my student email?"
+    },
+    {
+      "id": "lib-get-usi-who-contact-about-usi",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Where do I get my USI, and who do I contact about a USI or TFN error?"
+    },
+    {
+      "id": "lib-find-information-about-exams",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Where do I find information about my exams?"
+    },
+    {
+      "id": "lib-take-break-from-studies",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How do I take a break from my studies?"
+    },
+    {
+      "id": "lib-find-out-about-apprenticeships-traineeships",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How do I find out about apprenticeships and traineeships?"
+    },
+    {
+      "id": "lib-respondus-available-on-library-computers",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Is Respondus available on Library computers?"
+    },
+    {
+      "id": "lib-style-guides",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Where are the style guides?"
+    },
+    {
+      "id": "lib-find-information-on-write-assignment-apa",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Where can I find information on how to write my assignment to APA Manuscript guidelines?"
+    },
+    {
+      "id": "lib-learn-more-about-plagiarism-plagiarism",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Where can I learn more about Plagiarism? / What is plagiarism?"
+    },
+    {
+      "id": "lib-structure-write-essay",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How do I structure/write an essay?"
+    },
+    {
+      "id": "lib-different-borrower-types",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "What are different borrower types?"
+    },
+    {
+      "id": "lib-download-ebook",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How do I download an eBook?"
+    },
+    {
+      "id": "lib-m-attending-event-at-cdu-find",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "I'm attending an event at CDU. How do I find where to go?"
+    },
+    {
+      "id": "lib-am-allowed-bring-food-drinks-into",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Am I allowed to bring food and drinks into the library?"
+    },
+    {
+      "id": "lib-format-reference-list",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How do I format my reference list?"
+    },
+    {
+      "id": "lib-back-up-library-endnote",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How do I back up my library in EndNote?"
+    },
+    {
+      "id": "lib-there-endnote-apa-7th-output-style",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Is there an EndNote APA 7th output style?"
+    },
+    {
+      "id": "lib-know-which-referencing-style-use-assignments",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How do I know which referencing style to use for my assignments?"
+    },
+    {
+      "id": "lib-find-past-exam-papers",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Where can I find past exam papers?"
+    },
+    {
+      "id": "lib-subject-guide",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "What is a Subject guide?"
+    },
+    {
+      "id": "lib-who-contact-about-equals-digital-testamur",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Who do I contact about my eQuals (digital testamur)?"
+    },
+    {
+      "id": "lib-important-dates",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "What are the important dates?"
+    },
+    {
+      "id": "lib-get-after-hours-access-building",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How do I get after-hours access to a building?"
+    },
+    {
+      "id": "lib-scan-document-on-library-printer",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How do I scan a document on a library printer?"
+    },
+    {
+      "id": "lib-apply-credit-transfer-rpl-advanced-standing",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How do I apply for credit transfer or RPL (advanced standing)?"
+    },
+    {
+      "id": "lib-find-library-databases",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Where do I find the library databases?"
+    },
+    {
+      "id": "lib-read-interpret-turnitin-safeassign-report",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How to I read and interpret my Turnitin or SafeAssign report?"
+    },
+    {
+      "id": "lib-scope-librarian-services-academic-research-librarians",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Scope of Librarian Services: What can the Academic and Research Librarians help me with?"
+    },
+    {
+      "id": "lib-m-student-10-printing-credit",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "I'm a student. Where is my $10 printing credit?"
+    },
+    {
+      "id": "lib-find-information-assignment",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How do I find information for an assignment?"
+    },
+    {
+      "id": "lib-am-distance-student-borrow-book-while",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "I am a Distance student, can I borrow a book while visiting on campus?"
+    },
+    {
+      "id": "lib-library-s-opening-hours",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "What are the Library's opening hours?"
+    },
+    {
+      "id": "lib-place-request-library-book",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How do I place a request for a library book?"
+    },
+    {
+      "id": "lib-access-australian-standards-standards-australia",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How do I access Australian Standards (Standards Australia)?"
+    },
+    {
+      "id": "lib-find-case-law",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How do I find case law?"
+    },
+    {
+      "id": "lib-copyright-why-need-know-about-it",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "What is copyright, and why do I need to know about it?"
+    },
+    {
+      "id": "lib-happens-if-damage-library-book",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "What happens if I damage a library book?"
+    },
+    {
+      "id": "lib-much-does-printing-cost",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How much does printing cost?"
+    },
+    {
+      "id": "lib-penalties-withdrawing-from-unit",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "What are the penalties for withdrawing from a unit?"
+    },
+    {
+      "id": "lib-check-pay-student-fees",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How do I check and pay my student fees?"
+    },
+    {
+      "id": "lib-access-online-tutoring",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How do I access online tutoring?"
+    },
+    {
+      "id": "lib-t-find-book-on-shelf-even",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "I can't find a book on the shelf even though it's listed as available. What do I do?"
+    },
+    {
+      "id": "lib-structure-write-report",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How do I structure/write a report?"
+    },
+    {
+      "id": "lib-textbook-available-as-ebook",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Is my textbook available as an eBook?"
+    },
+    {
+      "id": "lib-pay-with-cash-on-campus",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Can I pay with cash on campus?"
+    },
+    {
+      "id": "lib-does-university-have-prayer-room",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Does the University have a prayer room?"
+    },
+    {
+      "id": "lib-why-am-not-getting-emails-from",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Why am I not getting emails from the library?"
+    },
+    {
+      "id": "lib-stairs-lift",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Where are the stairs and lift?"
+    },
+    {
+      "id": "lib-particular-building-on-campus",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Where is a particular building on campus?"
+    },
+    {
+      "id": "lib-enable-browser-cookies",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How do I enable browser cookies?"
+    },
+    {
+      "id": "lib-who-use-which-library-spaces",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Who can use which Library spaces?"
+    },
+    {
+      "id": "lib-does-library-run-workshops",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Does the library run workshops?"
+    },
+    {
+      "id": "lib-windows-security-blocking-endnote-download",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Windows security is blocking my EndNote download. What do I do?"
+    },
+    {
+      "id": "lib-reference-some-material-that-found-book",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How do I reference some material that I found in a book that was written by another author?"
+    },
+    {
+      "id": "lib-if-article-does-not-open-if",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "What to do if an article does not open, if I get an error message or if a completely different article opens?"
+    },
+    {
+      "id": "lib-lecture-happening",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Where is my lecture happening?"
+    },
+    {
+      "id": "lib-withdraw-from-unit",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How do I withdraw from a unit?"
+    },
+    {
+      "id": "lib-contact-lecturer",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How do I contact my lecturer?"
+    },
+    {
+      "id": "lib-food-outlets-on-campus-when-they",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "What food outlets are on campus, and when are they open?"
+    },
+    {
+      "id": "lib-use-wifi-at-another-university",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Can I use WiFi at another university?"
+    },
+    {
+      "id": "lib-t-log-library-computer",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "I can't log in to a library computer. What do I do?"
+    },
+    {
+      "id": "lib-find-resources-required-unit",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How do I find the resources required for my unit?"
+    },
+    {
+      "id": "lib-photocopy-id-card",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How do I photocopy my ID card?"
+    },
+    {
+      "id": "lib-why-there-no-draft-submission-option",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Why is there no draft submission option in Turnitin or SafeAssign?"
+    },
+    {
+      "id": "lib-stream-films-on-kanopy",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How do I stream films on Kanopy?"
+    },
+    {
+      "id": "lib-get-help-online-person",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Where can I get help, online or in person?"
+    },
+    {
+      "id": "lib-request-item-from-another-university-library",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How do I request an item from another university library?"
+    },
+    {
+      "id": "lib-get-help",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Where can I get help?"
+    },
+    {
+      "id": "lib-hire-graduation-gown",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Can I hire a graduation gown?"
+    },
+    {
+      "id": "lib-m-studying-externally-get-books",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "I'm studying externally, how do I get books?"
+    },
+    {
+      "id": "lib-about-ebook-error-message",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "What do I do about an eBook error message?"
+    },
+    {
+      "id": "lib-read-ebsco-ebook",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How can I read an EBSCO eBook?"
+    },
+    {
+      "id": "lib-would-need-know-about-genai-copyright",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "What would I need to know about GenAI and copyright?"
+    },
+    {
+      "id": "lib-services-does-library-archives-nt-lant",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "What services does Library & Archives NT (LANT) offer at Danala?"
+    },
+    {
+      "id": "lib-library-archives-nt-lant",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "What is Library & Archives NT (LANT)?"
+    },
+    {
+      "id": "lib-add-more-funds-printing-account",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How do I add more funds to my printing account?"
+    },
+    {
+      "id": "lib-why-author-names-change-endnote",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Why do author names change in EndNote?"
+    },
+    {
+      "id": "lib-find-out-if-library-has-particular",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How do I find out if the library has a particular journal?"
+    },
+    {
+      "id": "lib-libkey-nomad",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "What is LibKey Nomad?"
+    },
+    {
+      "id": "lib-browzine",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "What is BrowZine?"
+    },
+    {
+      "id": "lib-select-journal-publish",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How do I select a journal to publish in?"
+    },
+    {
+      "id": "lib-get-keyboard-onscreen",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How to get a keyboard onscreen?"
+    },
+    {
+      "id": "lib-resume-course-after-break",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How do I resume my course after a break?"
+    },
+    {
+      "id": "lib-get-help-with-hecs",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Where can I get help with HECS?"
+    },
+    {
+      "id": "lib-tertiary-enabling-program-tep",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "What is the Tertiary Enabling Program (TEP)?"
+    },
+    {
+      "id": "lib-get-assignment-extension",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How can I get an assignment extension?"
+    },
+    {
+      "id": "lib-academic-integrity",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "What is academic integrity?"
+    },
+    {
+      "id": "lib-you-help-me-with-writing-understanding",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Can you help me with writing or understanding my assignment?"
+    },
+    {
+      "id": "lib-someone-at-cdu-proofread-assignment",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Can someone at CDU proofread my assignment?"
+    },
+    {
+      "id": "lib-renew-library-books",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How do I renew my library books?"
+    },
+    {
+      "id": "lib-get-special-collection-item",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How do I get a Special Collection item?"
+    },
+    {
+      "id": "lib-ve-lost-student-card-borrow-without",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "I've lost my student card, can I borrow without it?"
+    },
+    {
+      "id": "lib-borrow-from-other-university-libraries",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Can I borrow from other university libraries?"
+    },
+    {
+      "id": "lib-find-bathrooms",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How do I find the bathrooms?"
+    },
+    {
+      "id": "lib-security-office",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Where is the security office?"
+    },
+    {
+      "id": "lib-find-results",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Where can I find my results?"
+    },
+    {
+      "id": "lib-returned-book-but-it-s-still",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "I returned my book but it's still on my account. What do I do?"
+    },
+    {
+      "id": "lib-pay-library-fines",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How do I pay my library fines?"
+    },
+    {
+      "id": "lib-services-support-does-cdu-offer-students",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "What services and support does CDU offer students?"
+    },
+    {
+      "id": "lib-login-library-account",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How do I login to my library account?"
+    },
+    {
+      "id": "lib-lecturer-s-office",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Where is my lecturer's office?"
+    },
+    {
+      "id": "lib-book-study-meeting-training-room-other",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Can I book a study/meeting/training room or other space?"
+    },
+    {
+      "id": "lib-download-endnote",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How do I download EndNote?"
+    },
+    {
+      "id": "lib-keep-endnote-library-onedrive-cloud-storage",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Can I keep my EndNote library in OneDrive or cloud storage?"
+    },
+    {
+      "id": "lib-who-help-me-with-endnote-problems",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Who can help me with my EndNote problems?"
+    },
+    {
+      "id": "lib-norton-antivirus-causing-problems-with-endnote",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Norton antivirus is causing problems with EndNote. What do I do?"
+    },
+    {
+      "id": "lib-why-see-initials-apa-text-references",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Why do I see initials in my APA in-text references using EndNote?"
+    },
+    {
+      "id": "lib-endnote-click",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "What is EndNote Click?"
+    },
+    {
+      "id": "lib-find-date-website",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How do I find the date for a website?"
+    },
+    {
+      "id": "lib-who-contact-about-nursing-sim-block",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Who do I contact about my nursing Sim Block nomination?"
+    },
+    {
+      "id": "lib-apply-through-satac-uac",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How do I apply through SATAC or UAC?"
+    },
+    {
+      "id": "lib-print-photocopy-scan-something",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How can I print, photocopy or scan something?"
+    },
+    {
+      "id": "lib-use-computer",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Can I use a computer?"
+    },
+    {
+      "id": "lib-follow-up-on-enrolment-application",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How do I follow up on my enrolment application?"
+    },
+    {
+      "id": "lib-write-literature-review",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How do I write a literature review?"
+    },
+    {
+      "id": "lib-who-help-me-with-overseas-student",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Who can help me with Overseas Student Health Cover (OSHC)?"
+    },
+    {
+      "id": "lib-there-atm-on-campus",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Is there an ATM on campus?"
+    },
+    {
+      "id": "lib-why-have-bring-back-book-early",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Why do I have to bring back the book early?"
+    },
+    {
+      "id": "lib-find-readings-unit",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Where do I find the readings for my unit?"
+    },
+    {
+      "id": "lib-turnitin-safeassign-submit-assignment",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "What is Turnitin or SafeAssign, and how do I submit an assignment?"
+    },
+    {
+      "id": "lib-who-help-me-with-learnline",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Who can help me with Learnline?"
+    },
+    {
+      "id": "lib-there-justice-peace-jp-on-campus",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Is there a Justice of the Peace/JP on campus?"
+    },
+    {
+      "id": "lib-university-change-format-copyrighted-material-help",
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Can the university change the format of copyrighted material to help me access it if I have a disability?"
+    },
+    {
+      "id": "results-access-results-online",
+      "source": "Grade release and results FAQ",
+      "question": "Can I access my results online?"
+    },
+    {
+      "id": "results-grade-codes",
+      "source": "Grade release and results FAQ",
+      "question": "What do grades like NA, AC or WW on my results mean?"
+    },
+    {
+      "id": "results-course-grade-point-average-gpa-calculated",
+      "source": "Grade release and results FAQ",
+      "question": "How is a course Grade Point Average (GPA) calculated?"
+    },
+    {
+      "id": "future-1-much-does-degree-cost",
+      "source": "Top 3 FAQs for future students",
+      "question": "How much does a degree cost?"
+    },
+    {
+      "id": "future-2-have-study-on-campus-online",
+      "source": "Top 3 FAQs for future students",
+      "question": "Do I have to study on campus, or are online options available?"
+    },
+    {
+      "id": "future-3-am-eligible-study-at-uni",
+      "source": "Top 3 FAQs for future students",
+      "question": "Am I eligible to study at uni?"
+    },
+    {
+      "id": "dates-s1-2026",
+      "source": "Important dates 2026",
+      "question": "When does Semester 1 2026 start, and what are the key dates?"
+    },
+    {
+      "id": "dates-s2-2026",
+      "source": "Important dates 2026",
+      "question": "When does Semester 2 2026 start, and what are the key dates?"
+    },
+    {
+      "id": "dates-summer-2026",
+      "source": "Important dates 2026",
+      "question": "What are the Summer Semester 2026 dates?"
+    },
+    {
+      "id": "dates-intensive-1-2026",
+      "source": "Important dates 2026",
+      "question": "What are the dates for Higher Education Intensive 1 in 2026?"
+    },
+    {
+      "id": "dates-intensive-2-2026",
+      "source": "Important dates 2026",
+      "question": "What are the dates for Higher Education Intensive 2 in 2026?"
+    },
+    {
+      "id": "dates-intensive-3-2026",
+      "source": "Important dates 2026",
+      "question": "What are the dates for Higher Education Intensive 3 in 2026?"
+    },
+    {
+      "id": "dates-intensive-4-2026",
+      "source": "Important dates 2026",
+      "question": "What are the dates for Higher Education Intensive 4 in 2026?"
+    },
+    {
+      "id": "dates-intensive-5-2026",
+      "source": "Important dates 2026",
+      "question": "What are the dates for Higher Education Intensive 5 in 2026?"
+    },
+    {
+      "id": "dates-intensive-6-2026",
+      "source": "Important dates 2026",
+      "question": "What are the dates for Higher Education Intensive 6 in 2026?"
+    },
+    {
+      "id": "dates-tafe-2026",
+      "source": "Important dates 2026",
+      "question": "What are the CDU TAFE term dates for 2026?"
+    },
+    {
+      "id": "dates-2027",
+      "source": "Important dates 2026",
+      "question": "What are the semester dates for 2027?"
+    },
+    {
+      "id": "dates-intensives-2027",
+      "source": "Important dates 2026",
+      "question": "What are the intensive teaching dates for 2027?"
+    },
+    {
+      "id": "housing-am-renting-first-time-need-know",
+      "source": "CDU StudyStays accommodation FAQ",
+      "question": "I am renting for the first time. What do I need to know?"
+    },
+    {
+      "id": "housing-does-off-campus-accommodation-service-check",
+      "source": "CDU StudyStays accommodation FAQ",
+      "question": "Does the off-campus accommodation service check the property, the landlord and any people living in the property?"
+    },
+    {
+      "id": "housing-why-database-listings-still-displayed-when",
+      "source": "CDU StudyStays accommodation FAQ",
+      "question": "Why are database listings still displayed when the accommodation provider tells me the vacancy has been rented?"
+    },
+    {
+      "id": "housing-if-have-problems-with-landlord-real",
+      "source": "CDU StudyStays accommodation FAQ",
+      "question": "If I have problems with the landlord, Real Estate Agent or other members of the household, what should I do?"
+    },
+    {
+      "id": "housing-am-unsure-about-rights-responsibilities-as",
+      "source": "CDU StudyStays accommodation FAQ",
+      "question": "I am unsure about my rights and responsibilities as a tenant. Where can I get advice?"
+    }
+  ],
+  "skipped": [
+    {
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How to find out which journals are in the top 10% and 5% using Scopus",
+      "reason": "out of first-year scope (research degree)"
+    },
+    {
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "What services are there for me as a researcher?",
+      "reason": "out of first-year scope (research degree)"
+    },
+    {
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Stationery items",
+      "reason": "out of first-year scope (staff)"
+    },
+    {
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "DMP ID",
+      "reason": "out of first-year scope (research degree)"
+    },
+    {
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Ebook Central Update: Changes to Default Format and Page Numbers",
+      "reason": "out of first-year scope (dated notice)"
+    },
+    {
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Do I need to pay for postage",
+      "reason": "out of first-year scope (staff)"
+    },
+    {
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Which Creative Commons licence should I apply to my thesis when depositing?",
+      "reason": "out of first-year scope (research degree)"
+    },
+    {
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Does CDU Library provide access to Covidence?",
+      "reason": "out of first-year scope (research degree)"
+    },
+    {
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "What music can I use for my students?",
+      "reason": "out of first-year scope (staff)"
+    },
+    {
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Can I show Netflix in class?",
+      "reason": "out of first-year scope (staff)"
+    },
+    {
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "What do I need to know about First Nations Knowledge and Intellectual Property (IP)?",
+      "reason": "out of first-year scope (research degree)"
+    },
+    {
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Can I include copyright material in exams and test questions?",
+      "reason": "out of first-year scope (staff)"
+    },
+    {
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Does the library accept donations?",
+      "reason": "out of first-year scope (staff)"
+    },
+    {
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Online Library resources for CDU Alumni",
+      "reason": "out of first-year scope (staff)"
+    },
+    {
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How do I know who owns the copyright for the material I want to use?",
+      "reason": "out of first-year scope (research degree)"
+    },
+    {
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "I'm studying at another university, can I use the CDU Library?",
+      "reason": "out of first-year scope (staff)"
+    },
+    {
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How do I get access to Library resources when I haven't started my research yet?",
+      "reason": "out of first-year scope (research degree)"
+    },
+    {
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Is there plagiarism checking software for HDR students?",
+      "reason": "out of first-year scope (research degree)"
+    },
+    {
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "What is RightsLink, and how do I use it?",
+      "reason": "out of first-year scope (research degree)"
+    },
+    {
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "I am completing a thesis by prior publication. What do I need to know about copyright?",
+      "reason": "out of first-year scope (research degree)"
+    },
+    {
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Can I reproduce the image from a textbook in my Learnline unit?",
+      "reason": "out of first-year scope (staff)"
+    },
+    {
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "I want to reproduce a map I found in a book in my thesis, how do I do this?",
+      "reason": "out of first-year scope (research degree)"
+    },
+    {
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "What is fair dealing, and when does it stop applying to my thesis?",
+      "reason": "out of first-year scope (research degree)"
+    },
+    {
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Public access to CDU Libraries",
+      "reason": "out of first-year scope (staff)"
+    },
+    {
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Library Closures",
+      "reason": "out of first-year scope (dated notice)"
+    },
+    {
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How do I request photographs/videos from the Library's collections?",
+      "reason": "out of first-year scope (staff)"
+    },
+    {
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "CDU Press",
+      "reason": "out of first-year scope (research degree)"
+    },
+    {
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How much can I download/print from an eBook",
+      "reason": "out of first-year scope (staff)"
+    },
+    {
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Can past students still access the library's resources?",
+      "reason": "out of first-year scope (staff)"
+    },
+    {
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Who owns the copyright of teaching and learning materials I create for my unit?",
+      "reason": "out of first-year scope (staff)"
+    },
+    {
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Do I need permission to include my own published articles in my thesis?",
+      "reason": "out of first-year scope (research degree)"
+    },
+    {
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Can members of the public borrow from the library?",
+      "reason": "out of first-year scope (staff)"
+    },
+    {
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How can I get an ISBN for my CDU publication?",
+      "reason": "out of first-year scope (research degree)"
+    },
+    {
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How do I get or replace a staff card",
+      "reason": "out of first-year scope (staff)"
+    },
+    {
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Can you invigilate my exam?",
+      "reason": "out of first-year scope (staff)"
+    },
+    {
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How can I find out the impact factor of a specific journal?",
+      "reason": "out of first-year scope (research degree)"
+    },
+    {
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Academic Document Request after Graduation",
+      "reason": "out of first-year scope (staff)"
+    },
+    {
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "How do I find or deposit a thesis",
+      "reason": "out of first-year scope (research degree)"
+    },
+    {
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Can I upload copyrighted material to a generative AI tool for my research?",
+      "reason": "out of first-year scope (research degree)"
+    },
+    {
+      "source": "CDU LibAnswers (Library and Student Central)",
+      "question": "Copyright check: Can I use this material?",
+      "reason": "question only, no answer"
+    },
+    {
+      "source": "CDU Menzies Medical Program FAQ",
+      "question": "What is the minimum ATAR or GPA for this course? And are there any exceptions to these minimums?",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "CDU Menzies Medical Program FAQ",
+      "question": "I finished school last year with an ATAR above 85, and I am currently studying in a bachelor’s program. How will my academic results be scored?",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "CDU Menzies Medical Program FAQ",
+      "question": "I was excluded/precluded from another university. Am I eligible to apply?",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "CDU Menzies Medical Program FAQ",
+      "question": "I live outside of Darwin. Am I eligible to apply?",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "CDU Menzies Medical Program FAQ",
+      "question": "Is my ATAR score considered as a raw score, or are adjustment factors included?",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "CDU Menzies Medical Program FAQ",
+      "question": "Can I apply for any credits from my previous studies to the CDU Menzies Medical Program?",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "CDU Menzies Medical Program FAQ",
+      "question": "Am I required to complete any tests/exams before applying for the CDU Menzies Medical Program course?",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "CDU Menzies Medical Program FAQ",
+      "question": "Does CDU welcome applicants from a non-science/health background?",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "CDU Menzies Medical Program FAQ",
+      "question": "I did not complete year 12 but I want to apply for Medicine. What do I need to do?",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "CDU Menzies Medical Program FAQ",
+      "question": "My ATAR is not high enough for the Bachelor of Clinical Science/Doctor of Medicine. What can I do to improve my chances in another year?",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "CDU Menzies Medical Program FAQ",
+      "question": "I am an International student, am I eligible to apply?",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "CDU Menzies Medical Program FAQ",
+      "question": "If I have a medical, mental health and/or learning condition, will I be given special consideration?",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "CDU Menzies Medical Program FAQ",
+      "question": "I am a current Year 12 student. How will you assess my academic score for the shortlisting to interviews in November (before ATARs are released)?",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "CDU Menzies Medical Program FAQ",
+      "question": "How do I apply?",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "CDU Menzies Medical Program FAQ",
+      "question": "I have submitted my application – what happens next?",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "CDU Menzies Medical Program FAQ",
+      "question": "What does it cost to study the CDU Menzies Medical Program at CDU?",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "CDU Menzies Medical Program FAQ",
+      "question": "Are there any scholarships available for this course?",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "CDU Menzies Medical Program FAQ",
+      "question": "Am I eligible to apply under multiple sub-quotas?",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "CDU Menzies Medical Program FAQ",
+      "question": "If I don't meet one of the sub-quota's, am I eligible to apply?",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "CDU Menzies Medical Program FAQ",
+      "question": "I am wanting to apply under the First Nations sub-quota, except I can't get a letter of confirmation from a recognised Aboriginal and/or Torres Strait Islander Organisation?",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "CDU Menzies Medical Program FAQ",
+      "question": "When will I be notified if I have been shortlisted?",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "CDU Menzies Medical Program FAQ",
+      "question": "How do I schedule my interview?",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "CDU Menzies Medical Program FAQ",
+      "question": "Can I attend the interview online?",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "CDU Menzies Medical Program FAQ",
+      "question": "Can I bring anyone with me to the interview?",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "CDU Menzies Medical Program FAQ",
+      "question": "What is the dress code?",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "CDU Menzies Medical Program FAQ",
+      "question": "What do I need to bring to my interview?",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "CDU Menzies Medical Program FAQ",
+      "question": "Am I able to find out who is on my interview panel?",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "CDU Menzies Medical Program FAQ",
+      "question": "Can I find any feedback on my interview?",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "CDU Menzies Medical Program FAQ",
+      "question": "Will my SATAC preference offer affect my chance of an offer?",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "CDU Menzies Medical Program FAQ",
+      "question": "When will I be notified if I have received an offer?",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "CDU Menzies Medical Program FAQ",
+      "question": "How do I accept my offer?",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "CDU Menzies Medical Program FAQ",
+      "question": "Can I defer my place to the following year?",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "CDU Menzies Medical Program FAQ",
+      "question": "Why did I not receive an offer despite an ATAR of 95?",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "CDU Menzies Medical Program FAQ",
+      "question": "I didn't receive an offer, what are my options?",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "CDU Menzies Medical Program FAQ",
+      "question": "Can I study this course online and part-time?",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "CDU Menzies Medical Program FAQ",
+      "question": "What does a typical timetable look like for a first-year student?",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "CDU Menzies Medical Program FAQ",
+      "question": "What time does a typical day start and finish?",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "CDU Menzies Medical Program FAQ",
+      "question": "Are students permitted to take time off during the academic year?",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "CDU Menzies Medical Program FAQ",
+      "question": "What support is available if I am struggling with the workload or have failed a unit?",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "CDU Menzies Medical Program FAQ",
+      "question": "How much clinical placement is involved in this course?",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "CDU Menzies Medical Program FAQ",
+      "question": "Are there any vaccinations or clearances I need to get and who pays for them?",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "CDU Menzies Medical Program FAQ",
+      "question": "Will I need to pay for my travel and accommodation during clinical placements?",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "CDU Menzies Medical Program FAQ",
+      "question": "Can international students apply?",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "CDU Menzies Medical Program FAQ",
+      "question": "I am on a student visa. Can I apply?",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "CDU Menzies Medical Program FAQ",
+      "question": "I am overseas. Can I apply?",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "CDU Menzies Medical Program FAQ",
+      "question": "I finished Year 12 before 2025. Can I apply?",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "CDU Menzies Medical Program FAQ",
+      "question": "How do international applicants apply?",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "CDU Menzies Medical Program FAQ",
+      "question": "When do applications open and close?",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "CDU Menzies Medical Program FAQ",
+      "question": "What are the entry requirements?",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "CDU Menzies Medical Program FAQ",
+      "question": "Are there sub-quotas for international applicants?",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "CDU Menzies Medical Program FAQ",
+      "question": "Do international applicants need to be shortlisted for an interview?",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "CDU Menzies Medical Program FAQ",
+      "question": "When will offers be released?",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "CDU Menzies Medical Program FAQ",
+      "question": "What are the fees?",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "CDU Menzies Medical Program FAQ",
+      "question": "Am I eligible for a HECS-HELP or FEE-HELP loan?",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "CDU Menzies Medical Program FAQ",
+      "question": "Are scholarships available?",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "CDU Menzies Medical Program FAQ",
+      "question": "What happens if I am granted permanent residency during the course?",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "CDU Menzies Medical Program FAQ",
+      "question": "My visa expires before the end of the course. What happens?",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "CDU Menzies Medical Program FAQ",
+      "question": "Will I be able to work as a doctor in Australia when I graduate?",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "CDU Menzies Medical Program FAQ",
+      "question": "Can I defer my place, or transfer credit from previous study?",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "Grade release and results FAQ",
+      "question": "Example of GPA calculation",
+      "reason": "worked example, merged into the GPA answer"
+    },
+    {
+      "source": "Top 3 FAQs for future students",
+      "question": "Contact us!",
+      "reason": "contact block, already covered"
+    },
+    {
+      "source": "Important dates 2026",
+      "question": "Higher Education",
+      "reason": "archived, research-degree or heading-only dates"
+    },
+    {
+      "source": "Important dates 2026",
+      "question": "Higher Education Intensives 2026",
+      "reason": "heading-only dates"
+    },
+    {
+      "source": "Important dates 2026",
+      "question": "MED-1 2026",
+      "reason": "archived, research-degree or heading-only dates"
+    },
+    {
+      "source": "Important dates 2026",
+      "question": "MED-2 2026",
+      "reason": "archived, research-degree or heading-only dates"
+    },
+    {
+      "source": "Important dates 2026",
+      "question": "MED-YR 2026",
+      "reason": "archived, research-degree or heading-only dates"
+    },
+    {
+      "source": "Important dates 2026",
+      "question": "Higher Degree by Research (HDR)",
+      "reason": "archived, research-degree or heading-only dates"
+    },
+    {
+      "source": "Important dates 2026",
+      "question": "Research Period 1 (R1)",
+      "reason": "archived, research-degree or heading-only dates"
+    },
+    {
+      "source": "Important dates 2026",
+      "question": "Research Period 2 (R2)",
+      "reason": "archived, research-degree or heading-only dates"
+    },
+    {
+      "source": "Important dates 2026",
+      "question": "Higher Education semester and intensive dates",
+      "reason": "archived, research-degree or heading-only dates"
+    },
+    {
+      "source": "Important dates 2026",
+      "question": "CDU TAFE dates",
+      "reason": "archived, research-degree or heading-only dates"
+    },
+    {
+      "source": "Important dates 2026",
+      "question": "Higher Education semester and intensives dates",
+      "reason": "archived, research-degree or heading-only dates"
+    },
+    {
+      "source": "Important dates 2026",
+      "question": "CDU TAFE dates",
+      "reason": "archived, research-degree or heading-only dates"
+    },
+    {
+      "source": "Important dates 2026",
+      "question": "Higher Education semester and intensives dates",
+      "reason": "archived, research-degree or heading-only dates"
+    },
+    {
+      "source": "Important dates 2026",
+      "question": "CDU TAFE dates",
+      "reason": "archived, research-degree or heading-only dates"
+    },
+    {
+      "source": "Important dates 2026",
+      "question": "Ask CDU",
+      "reason": "archived, research-degree or heading-only dates"
+    },
+    {
+      "source": "Master of IT (Software Engineering) course page",
+      "question": "Duration",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "Master of IT (Software Engineering) course page",
+      "question": "Intake",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "Master of IT (Software Engineering) course page",
+      "question": "Locations",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "Master of IT (Software Engineering) course page",
+      "question": "Entry requirements",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "Master of IT (Software Engineering) course page",
+      "question": "Credit points required",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "Master of IT (Software Engineering) course page",
+      "question": "Course code",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "Master of IT (Software Engineering) course page",
+      "question": "Overview",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "Master of IT (Software Engineering) course page",
+      "question": "Career opportunities",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "Master of IT (Software Engineering) course page",
+      "question": "Professional recognition",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "Master of IT (Software Engineering) course page",
+      "question": "Credit transfers and advanced standing",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "Master of IT (Software Engineering) course page",
+      "question": "Credit transfers and advanced standing",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "Master of IT (Software Engineering) course page",
+      "question": "Fees",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "Master of IT (Software Engineering) course page",
+      "question": "Why study a postgraduate degree at CDU?",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "Master of IT (Software Engineering) course page",
+      "question": "Why study a postgraduate degree at CDU?",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "Master of IT (Software Engineering) course page",
+      "question": "Course structure",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "Master of IT (Software Engineering) course page",
+      "question": "Study plan",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "Master of IT (Software Engineering) course page",
+      "question": "Quota",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "Master of IT (Software Engineering) course page",
+      "question": "Admission criteria",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "Master of IT (Software Engineering) course page",
+      "question": "International entry pathway",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "Master of IT (Software Engineering) course page",
+      "question": "Essential requirements",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "Master of IT (Software Engineering) course page",
+      "question": "Nikki",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "Master of IT (Software Engineering) course page",
+      "question": "Srijana",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "Master of IT (Software Engineering) course page",
+      "question": "Accreditation",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "Master of IT (Software Engineering) course page",
+      "question": "Inherent Requirements",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "Master of IT (Software Engineering) course page",
+      "question": "Australian qualification framework",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "Master of IT (Software Engineering) course page",
+      "question": "Additional information",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "Master of IT (Software Engineering) course page",
+      "question": "Contact details",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "Master of IT (Software Engineering) course page",
+      "question": "You make CDU",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "Master of IT (Software Engineering) course page",
+      "question": "Learn about information technology at CDU",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "Master of IT (Software Engineering) course page",
+      "question": "SATAC",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "Master of IT (Software Engineering) course page",
+      "question": "International applications",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "Master of IT (Software Engineering) course page",
+      "question": "SATAC codes",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "Master of IT (Software Engineering) course page",
+      "question": "CRICOS codes",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "Master of IT (Software Engineering) course page",
+      "question": "Master of Information Technology (Information Systems)",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "Master of IT (Software Engineering) course page",
+      "question": "Graduate Certificate of Data Science",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "Master of IT (Software Engineering) course page",
+      "question": "Master of Information Technology (Artificial Intelligence)",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "Master of IT (Software Engineering) course page",
+      "question": "Master of Data Science",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "Master of IT (Software Engineering) course page",
+      "question": "We are here to help",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "Master of IT (Software Engineering) course page",
+      "question": "Share this course",
+      "reason": "course-level page for prospective applicants (use --include-course-level)"
+    },
+    {
+      "source": "CDU StudyStays accommodation FAQ",
+      "question": "What are the benefits of advertising vacancies through CDU StudyStays?",
+      "reason": "for landlords and providers, not students"
+    },
+    {
+      "source": "CDU StudyStays accommodation FAQ",
+      "question": "What are students/staff looking for?",
+      "reason": "for landlords and providers, not students"
+    },
+    {
+      "source": "CDU StudyStays accommodation FAQ",
+      "question": "I can’t sign in or remember my password",
+      "reason": "for landlords and providers, not students"
+    },
+    {
+      "source": "CDU StudyStays accommodation FAQ",
+      "question": "How much rent do I charge and should bills be included in the rent?",
+      "reason": "for landlords and providers, not students"
+    },
+    {
+      "source": "CDU StudyStays accommodation FAQ",
+      "question": "How do I advertise a vacant room or property?",
+      "reason": "for landlords and providers, not students"
+    },
+    {
+      "source": "CDU StudyStays accommodation FAQ",
+      "question": "How long does it take for my listing to go live?",
+      "reason": "for landlords and providers, not students"
+    },
+    {
+      "source": "CDU StudyStays accommodation FAQ",
+      "question": "How long will my advertisement remain live on this service?",
+      "reason": "for landlords and providers, not students"
+    },
+    {
+      "source": "CDU StudyStays accommodation FAQ",
+      "question": "How do I edit my listing?",
+      "reason": "for landlords and providers, not students"
+    },
+    {
+      "source": "CDU StudyStays accommodation FAQ",
+      "question": "How do I relist a previous accommodation offer?",
+      "reason": "for landlords and providers, not students"
+    },
+    {
+      "source": "CDU StudyStays accommodation FAQ",
+      "question": "How do I close my listing when the vacancy has been filled?",
+      "reason": "for landlords and providers, not students"
+    },
+    {
+      "source": "CDU StudyStays accommodation FAQ",
+      "question": "As a landlord leasing a room, is the rent tax-free?",
+      "reason": "for landlords and providers, not students"
+    },
+    {
+      "source": "CDU StudyStays accommodation FAQ",
+      "question": "Further Information",
+      "reason": "for landlords and providers, not students"
+    },
+    {
+      "source": "LIBANSWERS",
+      "question": "How many books can I borrow?",
+      "reason": "duplicate question"
+    }
+  ],
+  "merged_into_curated": [
+    {
+      "imported": "Can I return my books if the library is closed?",
+      "curated_id": "borrowing",
+      "curated_question": "How do I borrow or request library resources?",
+      "score": 0.62
+    },
+    {
+      "imported": "How do I find books?",
+      "curated_id": "library-help",
+      "curated_question": "How do I get help navigating the Library resources?",
+      "score": 0.696
+    },
+    {
+      "imported": "Where are the group study rooms?",
+      "curated_id": "study-room",
+      "curated_question": "How do I book a study room in the Casuarina Library?",
+      "score": 0.75
+    },
+    {
+      "imported": "How do I enroll in my units",
+      "curated_id": "enrolling-help",
+      "curated_question": "I need help with enrolling",
+      "score": 1.0
+    },
+    {
+      "imported": "How many books can I borrow",
+      "curated_id": "borrowing",
+      "curated_question": "How do I borrow or request library resources?",
+      "score": 0.796
+    },
+    {
+      "imported": "Scholarships",
+      "curated_id": "gms-multiple",
+      "curated_question": "Can I hold more than one scholarship?",
+      "score": 1.0
+    },
+    {
+      "imported": "What if the library doesn’t have a copy of a book I want?",
+      "curated_id": "borrowing",
+      "curated_question": "How do I borrow or request library resources?",
+      "score": 0.774
+    },
+    {
+      "imported": "How do I activate my computer account?",
+      "curated_id": "activate-account",
+      "curated_question": "How do I activate my student account?",
+      "score": 0.668
+    },
+    {
+      "imported": "Is there a shuttle bus from Casuarina campus to the City campus | Danala?",
+      "curated_id": "shuttle-bus",
+      "curated_question": "Is there a CDU bus between Danala and Casuarina?",
+      "score": 0.78
+    },
+    {
+      "imported": "Can someone help me with referencing?",
+      "curated_id": "writing-referencing-help",
+      "curated_question": "How do I get help with assignment writing and referencing?",
+      "score": 1.0
+    },
+    {
+      "imported": "Contact Security",
+      "curated_id": "security",
+      "curated_question": "How do I contact campus security?",
+      "score": 0.739
+    },
+    {
+      "imported": "How do I find my class timetable?",
+      "curated_id": "timetable",
+      "curated_question": "Where can I find my timetable?",
+      "score": 0.912
+    },
+    {
+      "imported": "Student lounges",
+      "curated_id": "student-lounge",
+      "curated_question": "Is there a student lounge on campus?",
+      "score": 0.804
+    },
+    {
+      "imported": "How do I reference?",
+      "curated_id": "writing-referencing-help",
+      "curated_question": "How do I get help with assignment writing and referencing?",
+      "score": 0.885
+    },
+    {
+      "imported": "Do I need a library card to borrow books?",
+      "curated_id": "borrowing",
+      "curated_question": "How do I borrow or request library resources?",
+      "score": 0.666
+    },
+    {
+      "imported": "How do I enroll?",
+      "curated_id": "enrolling-help",
+      "curated_question": "I need help with enrolling",
+      "score": 1.0
+    },
+    {
+      "imported": "Where can I get career advice?",
+      "curated_id": "professional-connections",
+      "curated_question": "How can I build professional connections?",
+      "score": 0.738
+    },
+    {
+      "imported": "How do I contact campus security?",
+      "curated_id": "security",
+      "curated_question": "How do I contact campus security?",
+      "score": 0.939
+    },
+    {
+      "imported": "How do I reset my password?",
+      "curated_id": "it-help",
+      "curated_question": "Can I meet with someone to help me with IT questions?",
+      "score": 0.878
+    },
+    {
+      "imported": "What is Multi Factor Authentication (MFA)?",
+      "curated_id": "it-access-mfa",
+      "curated_question": "What do I need to do to set up IT access?",
+      "score": 0.97
+    },
+    {
+      "imported": "How to print from a laptop (Webprint)",
+      "curated_id": "printing",
+      "curated_question": "How do I print on campus?",
+      "score": 0.793
+    },
+    {
+      "imported": "Can I borrow a book from another campus?",
+      "curated_id": "borrowing",
+      "curated_question": "How do I borrow or request library resources?",
+      "score": 1.0
+    },
+    {
+      "imported": "Can I access the internet at CDU Library?",
+      "curated_id": "wifi",
+      "curated_question": "How do I get access to Wi-Fi?",
+      "score": 0.7
+    },
+    {
+      "imported": "Can I return books to another campus library?",
+      "curated_id": "borrowing",
+      "curated_question": "How do I borrow or request library resources?",
+      "score": 0.778
+    },
+    {
+      "imported": "Where can I find my study plan?",
+      "curated_id": "study-plan",
+      "curated_question": "How do I access my study plan?",
+      "score": 0.884
+    },
+    {
+      "imported": "Getting a student card",
+      "curated_id": "student-card",
+      "curated_question": "How do I get a student card?",
+      "score": 0.693
+    },
+    {
+      "imported": "I cannot access internet",
+      "curated_id": "wifi",
+      "curated_question": "How do I get access to Wi-Fi?",
+      "score": 1.0
+    }
+  ],
+  "summary": {
+    "curated": 64,
+    "imported": 219,
+    "qa_corner_drafts": 8,
+    "merged_into_curated": 27,
+    "skipped": 168,
+    "total": 291
+  }
+}

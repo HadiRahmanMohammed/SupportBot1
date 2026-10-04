@@ -1,0 +1,1205 @@
+{
+  "meta": {
+    "name": "CDU First-Year Student Support knowledge base",
+    "primary_source": "New Student Welcome Centre FAQ, Version 2 (28/02/2023), provided by the CDU Senior Student Success Adviser",
+    "kb_version": "1.0.0",
+    "prepared": "2026-10-02",
+    "notes": "Answers rewritten from staff-facing wording into student-facing chat wording without changing meaning. Internal staff-only escalation notes removed. Entries with review_flag need a staff check before go-live. Entries with approved=false are team-written placeholders for unit-level questions, pending staff approval."
+  },
+  "sources": {
+    "WCFAQ": {
+      "title": "New Student Welcome Centre FAQ",
+      "version": "Version 2, 28 Feb 2023",
+      "owner": "CDU Student Success / Welcome Centre",
+      "type": "Internal, staff-approved"
+    },
+    "TEAM": {
+      "title": "Team-written placeholder (PRT691 Darwin and External 01)",
+      "version": "Draft, pending staff approval",
+      "owner": "Project team",
+      "type": "Placeholder, not yet approved"
+    }
+  },
+  "faqs": [
+    {
+      "id": "new-to-cdu",
+      "category": "Getting started",
+      "level": "university",
+      "question": "Where can I find everything I need as a new student?",
+      "alternatives": [
+        "I'm a new student, where do I start?",
+        "first year student getting started guide",
+        "what should I do first when I start at CDU",
+        "new student checklist",
+        "orientation information for new students"
+      ],
+      "answer": "The best place to start is the **New to CDU** page. It walks you through activating your account, enrolling, setting up IT and getting your timetable.\n\nIf you'd like one-on-one help with account activation, enrolment, study plans or timetables, visit the support staff in the **Library Foyer** (ITMS, Student Central and Library staff are based there).",
+      "links": [
+        {"label": "New to CDU", "url": "https://www.cdu.edu.au/current-students/new-to-cdu"}
+      ],
+      "source": {"doc": "WCFAQ", "page": 1},
+      "approved": true,
+      "review_flag": null
+    },
+    {
+      "id": "activate-account",
+      "category": "Getting started",
+      "level": "university",
+      "question": "How do I activate my student account?",
+      "alternatives": [
+        "activate my CDU account",
+        "how to set up my student login",
+        "account activation",
+        "I can't log in, my account isn't activated",
+        "where do I activate my student email",
+        "how do I get my username and password"
+      ],
+      "answer": "Go to **activation.cdu.edu.au** and step through the prompts. The New to CDU page also has the full set of steps.\n\nIf you get stuck, the support staff in the Library Foyer can help you one-on-one.",
+      "links": [
+        {"label": "Activate your account", "url": "https://activation.cdu.edu.au"},
+        {"label": "New to CDU steps", "url": "https://www.cdu.edu.au/current-students/new-to-cdu"}
+      ],
+      "source": {"doc": "WCFAQ", "page": 3},
+      "approved": true,
+      "review_flag": null
+    },
+    {
+      "id": "it-access-mfa",
+      "category": "IT and Wi-Fi",
+      "level": "university",
+      "question": "What do I need to do to set up IT access?",
+      "alternatives": [
+        "how do I set up multi-factor authentication",
+        "set up MFA",
+        "IT setup for new students",
+        "authenticator app setup for my student account",
+        "two factor authentication CDU"
+      ],
+      "answer": "After activating your account, set up **Microsoft Multi-Factor Authentication (MFA)**. This keeps your account secure, and you'll need it to sign in to CDU systems and the CDU app.",
+      "links": [
+        {"label": "Set up MFA", "url": "https://www.cdu.edu.au/itms/multi-factor-authentication-mfa"}
+      ],
+      "source": {"doc": "WCFAQ", "page": 3},
+      "approved": true,
+      "review_flag": null
+    },
+    {
+      "id": "student-card",
+      "category": "Getting started",
+      "level": "university",
+      "question": "How do I get a student card?",
+      "alternatives": [
+        "where do I get my student ID card",
+        "student ID card printing",
+        "I need a student card",
+        "how to get my ID card",
+        "replace my student card"
+      ],
+      "answer": "- **Casuarina:** CDU Student Central or the IT staff in the Library can print your student card, or you can go to Student Central in Orange 1.\n- **Danala:** go to the Student Central desk.\n\nBring **photo ID** (such as your passport). It's required for your first card.",
+      "links": [],
+      "source": {"doc": "WCFAQ", "page": 3},
+      "approved": true,
+      "review_flag": null
+    },
+    {
+      "id": "enrolling-help",
+      "category": "Enrolment and study plans",
+      "level": "university",
+      "question": "I need help with enrolling",
+      "alternatives": [
+        "how do I enrol in my units",
+        "how to enrol",
+        "enrolment help",
+        "how do I pick my units",
+        "enroll in classes",
+        "can't enrol in a unit prerequisite not completed",
+        "how do I enrol in an intensive unit"
+      ],
+      "answer": "Start with the **Guide to Enrolling** (Current Students > Student admin > Guide to enrolling).\n\nSome special enrolments can only be done manually using an **eForm**:\n- a prerequisite hasn't been completed\n- overload (not available to first-semester students)\n- intensive units\n- other provisional enrolments approved by your Faculty or the Higher Education Enrolment team\n\nFor one-on-one help, visit the support staff in the Library Foyer.",
+      "links": [
+        {"label": "Guide to enrolling", "url": "https://www.cdu.edu.au/current-students/student-admin/enrolling"}
+      ],
+      "source": {"doc": "WCFAQ", "page": 3},
+      "approved": true,
+      "review_flag": null
+    },
+    {
+      "id": "study-plan",
+      "category": "Enrolment and study plans",
+      "level": "university",
+      "question": "How do I access my study plan?",
+      "alternatives": [
+        "where is my study plan",
+        "which units should I take",
+        "course study plan",
+        "what units do I need to do this semester",
+        "find my course structure"
+      ],
+      "answer": "Search **study plan** on AskCDU, CDU's FAQ site, for step-by-step help.\n\nMake sure you look at the study plan for the **semester you're starting in** (for example, the Semester 2 plan if you start mid-year).",
+      "links": [
+        {"label": "AskCDU", "url": "https://ask.cdu.edu.au"}
+      ],
+      "source": {"doc": "WCFAQ", "page": 3},
+      "approved": true,
+      "review_flag": null
+    },
+    {
+      "id": "timetable",
+      "category": "Enrolment and study plans",
+      "level": "university",
+      "question": "Where can I find my timetable?",
+      "alternatives": [
+        "class timetable",
+        "when are my classes",
+        "how do I see my class schedule",
+        "lecture times",
+        "TAFE timetable",
+        "where do I check my class times"
+      ],
+      "answer": "- **Higher Education students:** your timetable is in the **New Student Portal**, which should show all your classes.\n- **TAFE students:** your lecturer gives you your timetable. After you apply, they'll contact you to discuss your units and timetable.",
+      "links": [
+        {"label": "New to CDU", "url": "https://www.cdu.edu.au/current-students/new-to-cdu"}
+      ],
+      "source": {"doc": "WCFAQ", "page": 3},
+      "approved": true,
+      "review_flag": null
+    },
+    {
+      "id": "usi",
+      "category": "Enrolment and study plans",
+      "level": "university",
+      "question": "How do I apply for a USI?",
+      "alternatives": [
+        "what is a unique student identifier",
+        "get a USI",
+        "I don't have a USI",
+        "where do I enter my USI",
+        "create USI number"
+      ],
+      "answer": "Getting a **Unique Student Identifier (USI)** is quick, easy and free.\n\n1. Have a valid form of ID ready.\n2. Create your USI on the USI Registry System.\n3. Enter your USI in **My Student Info**, under Enrolment Steps.\n\nYour USI is needed for CDU's government reporting, and for international students it also matters for visa compliance.",
+      "links": [
+        {"label": "USI Registry", "url": "https://www.usi.gov.au"}
+      ],
+      "source": {"doc": "WCFAQ", "page": 4},
+      "approved": true,
+      "review_flag": null
+    },
+    {
+      "id": "intl-student-record",
+      "category": "International students",
+      "level": "university",
+      "question": "As an international student, what do I need to update in My Student Info?",
+      "alternatives": [
+        "update my address international student",
+        "which address do I put in my student info",
+        "home address and emergency contact",
+        "do I need a semester address",
+        "international student record update"
+      ],
+      "answer": "Please check your details in **My Student Info**. It's vital for CDU's government reporting and your visa compliance.\n\n- **Contact Details:** enter your **Australian address**.\n- **Home Address and Emergency Contact:** enter your **home-country address** and an emergency contact number.\n- The Semester Address is **not** compulsory.\n\nAlso make sure your **USI** is entered under Enrolment Steps.",
+      "links": [],
+      "source": {"doc": "WCFAQ", "page": 4},
+      "approved": true,
+      "review_flag": null
+    },
+    {
+      "id": "wifi",
+      "category": "IT and Wi-Fi",
+      "level": "university",
+      "question": "How do I get access to Wi-Fi?",
+      "alternatives": [
+        "connect to wifi on campus",
+        "eduroam login",
+        "wifi password",
+        "internet on campus not working",
+        "how to connect my laptop to the internet at uni",
+        "android wifi domain"
+      ],
+      "answer": "You can use Wi-Fi once your **student account is activated**. **eduroam** is the preferred network. It works on all CDU campuses and at many universities in Australia and around the world.\n\n1. Select the **eduroam** network.\n2. Username: **s123456@students.cdu.edu.au** (your student number)\n3. Password: your current CDU password\n\nOn some Android phones you may also need to set the domain to **cdu.edu.au**.",
+      "links": [],
+      "source": {"doc": "WCFAQ", "page": 5},
+      "approved": true,
+      "review_flag": null
+    },
+    {
+      "id": "it-help",
+      "category": "IT and Wi-Fi",
+      "level": "university",
+      "question": "Can I meet with someone to help me with IT questions?",
+      "alternatives": [
+        "IT support",
+        "who do I contact for IT problems",
+        "ITMS help desk",
+        "tech support phone number",
+        "my laptop won't connect who can help",
+        "password reset help"
+      ],
+      "answer": "- **Casuarina:** go to the **ITMS kiosk** in the Library.\n- **Danala:** ask at Student Central.\n- **Phone:** 08 8946 6600",
+      "links": [],
+      "source": {"doc": "WCFAQ", "page": 5},
+      "approved": true,
+      "review_flag": null
+    },
+    {
+      "id": "library-help",
+      "category": "Library and study support",
+      "level": "university",
+      "question": "How do I get help navigating the Library resources?",
+      "alternatives": [
+        "library help",
+        "how do I use the library",
+        "library guide for new students",
+        "find books and journals",
+        "library website"
+      ],
+      "answer": "Visit the **CDU Library website** and its **New Student Guide to the Library**. Library staff can also help you in person.",
+      "links": [
+        {"label": "CDU Library", "url": "https://www.cdu.edu.au/library"}
+      ],
+      "source": {"doc": "WCFAQ", "page": 6},
+      "approved": true,
+      "review_flag": null
+    },
+    {
+      "id": "printing",
+      "category": "Library and study support",
+      "level": "university",
+      "question": "How do I print on campus?",
+      "alternatives": [
+        "printing quota",
+        "how much printing do I get",
+        "print from my own laptop",
+        "web print",
+        "where can I print my assignment"
+      ],
+      "answer": "Students get a **$10 printing quota per semester**.\n\nAt Casuarina and Danala you can print from your own computer using **Web Print** in **My-Print**.",
+      "links": [],
+      "source": {"doc": "WCFAQ", "page": 6},
+      "approved": true,
+      "review_flag": null
+    },
+    {
+      "id": "writing-referencing-help",
+      "category": "Library and study support",
+      "level": "university",
+      "question": "How do I get help with assignment writing and referencing?",
+      "alternatives": [
+        "help with referencing",
+        "essay writing help",
+        "someone to check my draft assignment",
+        "APA referencing workshop",
+        "academic writing support",
+        "Write Right workshop"
+      ],
+      "answer": "- **On Casuarina campus:** the Library runs **Write Right** sessions (bring your draft and check you're on the right track) and **referencing workshops**. Check LibCal for current dates.\n- **Online students:** use CDU's **Language and Learning Support** service.\n- **Any time:** online recorded resources are available.\n\nYou can also book individual appointments with **Language & Learning Advisors**.",
+      "links": [
+        {"label": "CDU Library", "url": "https://www.cdu.edu.au/library"}
+      ],
+      "source": {"doc": "WCFAQ", "page": 6},
+      "approved": true,
+      "review_flag": "The source notes Write Right may not run every semester. Check current LibCal listings."
+    },
+    {
+      "id": "english-improvement",
+      "category": "Library and study support",
+      "level": "university",
+      "question": "How can I improve my English?",
+      "alternatives": [
+        "English language support",
+        "practise speaking English",
+        "English conversation group",
+        "improve my grammar and pronunciation",
+        "Chance2Chat"
+      ],
+      "answer": "- **Casuarina:** join the **Chance2Chat** workshop.\n- **Palmerston:** **English Language for the Workplace** sessions (see LibCal).\n- **Online:** **English Club** workshops on pronunciation, grammar, reading and vocabulary.\n\nYou can also book one-on-one appointments with a **Language & Learning Advisor**.",
+      "links": [],
+      "source": {"doc": "WCFAQ", "page": 6},
+      "approved": true,
+      "review_flag": "Workshop schedules change each semester. Confirm these are still running."
+    },
+    {
+      "id": "study-skills",
+      "category": "Library and study support",
+      "level": "university",
+      "question": "How can I improve my study skills?",
+      "alternatives": [
+        "study tips",
+        "time management for uni",
+        "how to study at university",
+        "study skills resources",
+        "peer study help"
+      ],
+      "answer": "CDU has **online Study skills resources** on its website.\n\nOther options:\n- **Peer Advisors** give informal study help from fellow students.\n- **Online Tutoring** (via Learnline) offers 24/7 subject-specific help by text or phone.\n- **Language & Learning Advisors** offer individual appointments.",
+      "links": [],
+      "source": {"doc": "WCFAQ", "page": 6},
+      "approved": true,
+      "review_flag": null
+    },
+    {
+      "id": "borrowing",
+      "category": "Library and study support",
+      "level": "university",
+      "question": "How do I borrow or request library resources?",
+      "alternatives": [
+        "borrow a book",
+        "reserve a book",
+        "library doesn't have the book I need",
+        "request a journal subscription",
+        "return library books"
+      ],
+      "answer": "You can **reserve, borrow and return** resources through the Library (see the Borrowing page).\n\nIf something isn't available, use the **purchase request form** to recommend a resource. To suggest a journal subscription or database, contact a Librarian.",
+      "links": [
+        {"label": "CDU Library", "url": "https://www.cdu.edu.au/library"}
+      ],
+      "source": {"doc": "WCFAQ", "page": 6},
+      "approved": true,
+      "review_flag": null
+    },
+    {
+      "id": "study-room",
+      "category": "Library and study support",
+      "level": "university",
+      "question": "How do I book a study room in the Casuarina Library?",
+      "alternatives": [
+        "book a study room",
+        "group study room booking",
+        "reserve a room in the library",
+        "quiet room to study"
+      ],
+      "answer": "You can book a study room for **up to 2 hours a day** through **LibCal** (Space Availability, Casuarina).",
+      "links": [],
+      "source": {"doc": "WCFAQ", "page": 6},
+      "approved": true,
+      "review_flag": null
+    },
+    {
+      "id": "other-campus-libraries",
+      "category": "Library and study support",
+      "level": "university",
+      "question": "Can I use the libraries on other campuses?",
+      "alternatives": [
+        "access library at different campus",
+        "use Danala library",
+        "can I go to the Palmerston library",
+        "student card library access"
+      ],
+      "answer": "Yes. You can access all CDU libraries with your **student card**. If your card doesn't work, ask the library staff or the IT team.",
+      "links": [],
+      "source": {"doc": "WCFAQ", "page": 6},
+      "approved": true,
+      "review_flag": null
+    },
+    {
+      "id": "cdu-app",
+      "category": "Campus and wayfinding",
+      "level": "university",
+      "question": "Is there a wayfinding app for CDU?",
+      "alternatives": [
+        "CDU mobile app",
+        "campus map app",
+        "how do I find my way around campus",
+        "navigation app for campus"
+      ],
+      "answer": "Yes. Download the **CDU** app from your app store. You'll sign in with your CDU student account, so **activate your account and set up MFA** first.",
+      "links": [],
+      "source": {"doc": "WCFAQ", "page": 7},
+      "approved": true,
+      "review_flag": null
+    },
+    {
+      "id": "room-codes",
+      "category": "Campus and wayfinding",
+      "level": "university",
+      "question": "How do I read room and building locations?",
+      "alternatives": [
+        "what does Blue 5.1.24 mean",
+        "where is my lecture room",
+        "how to find my classroom",
+        "room code format",
+        "find a lab on campus",
+        "Danala floor map"
+      ],
+      "answer": "At Casuarina, rooms follow this format:\n**[Precinct colour + building number] . [level] . [room number]**\n\nFor example, **Blue 5.1.24** is building Blue 5, level 1, room 24. Other CDU campuses use a very similar format.\n\nAt **Danala**, there's a map in each foyer next to the lifts.",
+      "links": [],
+      "source": {"doc": "WCFAQ", "page": 7},
+      "approved": true,
+      "review_flag": null
+    },
+    {
+      "id": "campus-maps",
+      "category": "Campus and wayfinding",
+      "level": "university",
+      "question": "Where can I download a campus map?",
+      "alternatives": [
+        "Casuarina campus map",
+        "Palmerston campus map",
+        "Alice Springs campus map",
+        "printable map of campus"
+      ],
+      "answer": "Downloadable maps are available for **Casuarina**, **Palmerston** and **Alice Springs** campuses on the CDU website. You can also use the **CDU app** for wayfinding.",
+      "links": [],
+      "source": {"doc": "WCFAQ", "page": 7},
+      "approved": true,
+      "review_flag": null
+    },
+    {
+      "id": "parking",
+      "category": "Campus and wayfinding",
+      "level": "university",
+      "question": "Where can I park on campus?",
+      "alternatives": [
+        "parking permit",
+        "car parking at uni",
+        "where to park my car",
+        "parking fees campus"
+      ],
+      "answer": "See CDU's **Parking facilities** page for where to park and any permit details.",
+      "links": [
+        {"label": "Parking facilities", "url": "https://www.cdu.edu.au/aboutcdu/property-and-facilities/parking-facilities"}
+      ],
+      "source": {"doc": "WCFAQ", "page": 7},
+      "approved": true,
+      "review_flag": null
+    },
+    {
+      "id": "campus-tours",
+      "category": "Campus and wayfinding",
+      "level": "university",
+      "question": "Are there campus tours on open days or orientation days?",
+      "alternatives": [
+        "campus tour",
+        "orientation tour",
+        "can someone show me around campus"
+      ],
+      "answer": "Yes. Campus tours run from the **face-to-face Welcome Centres** during orientation.",
+      "links": [],
+      "source": {"doc": "WCFAQ", "page": 7},
+      "approved": true,
+      "review_flag": null
+    },
+    {
+      "id": "accommodation",
+      "category": "Accommodation",
+      "level": "university",
+      "question": "How can I get help with accommodation?",
+      "alternatives": [
+        "where can I live",
+        "find a place to rent in Darwin",
+        "student housing",
+        "CDU Village",
+        "share house Darwin",
+        "homestay",
+        "accommodation options for students"
+      ],
+      "answer": "Start at CDU **Accommodation Services**. Options include:\n- **CDU Village:** join the waitlist for a long-term room.\n- **Study Stays:** CDU's off-campus listings (usually shared houses or granny flats). Only CDU students can view it.\n- **Unilodge** near Casuarina Shopping Centre (shared accommodation).\n- **Homestay:** Global Experience or Australian Homestay Network, for short stays of up to about 8 weeks.\n- General sites: **Flatmates.com.au**, **realestate.com.au**, **Gumtree** and the Facebook group *Buy Swap Sell Wanted Darwin*.\n- **Airbnb** works as a temporary option but is expensive, especially in the dry season (May to October).",
+      "links": [
+        {"label": "Accommodation Services", "url": "https://www.cdu.edu.au/accommodation-services"},
+        {"label": "Study Stays", "url": "https://cdu.studystays.com.au/"},
+        {"label": "Unilodge Darwin", "url": "https://www.unilodge.com.au/student-accommodation-darwin/darwin"},
+        {"label": "Australian Homestay Network", "url": "https://www.homestaynetwork.org/charles-darwin-university-students/"},
+        {"label": "Global Experience", "url": "https://www.globalexperience.com.au/"},
+        {"label": "Flatmates", "url": "https://flatmates.com.au/"},
+        {"label": "realestate.com.au", "url": "https://www.realestate.com.au/rent/"}
+      ],
+      "source": {"doc": "WCFAQ", "page": 8},
+      "approved": true,
+      "review_flag": null
+    },
+    {
+      "id": "emergency-accommodation",
+      "category": "Accommodation",
+      "level": "university",
+      "question": "I've arrived and don't have anywhere to stay tonight",
+      "alternatives": [
+        "emergency accommodation",
+        "I have nowhere to sleep tonight",
+        "urgent housing",
+        "homeless need a room tonight",
+        "need somewhere to stay right now"
+      ],
+      "answer": "**CLV** has rooms for students who need **emergency accommodation**. Stays are limited so CLV can help as many students as possible, and availability depends on demand.\n\nCall **+61 8 7928 5050**.\n\nIf you're unsafe right now, call **000**.",
+      "links": [],
+      "source": {"doc": "WCFAQ", "page": 8},
+      "approved": true,
+      "review_flag": "The source uses both 'CLV' and 'CVL'. Confirm the provider's full name and phone number with staff."
+    },
+    {
+      "id": "meet-friends",
+      "category": "Social and community",
+      "level": "university",
+      "question": "How can I meet new friends on campus?",
+      "alternatives": [
+        "make friends at uni",
+        "student clubs and groups",
+        "social events for students",
+        "I feel lonely and want to meet people",
+        "buddy program",
+        "student events this week"
+      ],
+      "answer": "- **Student Portal:** log in to find **Student Groups** and upcoming **Events**.\n- **Buddy Program** (international students): meet a buddy before classes start. Contact CDU Global at international@cdu.edu.au. *It doesn't run every semester, so check with CDU Global.*\n- **Student lounges:** Casuarina (Red 1, Level 3) and Danala (Levels 3 and 4).\n- **Student Leaders** organise events and are a first point of contact for peer support.",
+      "links": [],
+      "source": {"doc": "WCFAQ", "page": 9},
+      "approved": true,
+      "review_flag": "Staff note: CDU Global confirmed the Buddy Program wasn't running in one semester. Check its current status."
+    },
+    {
+      "id": "student-lounge",
+      "category": "Social and community",
+      "level": "university",
+      "question": "Is there a student lounge on campus?",
+      "alternatives": [
+        "where can I heat my lunch",
+        "microwave on campus",
+        "place to relax between classes",
+        "student kitchen",
+        "table tennis"
+      ],
+      "answer": "- **Casuarina:** Student Lounge at the top of **Red 1, Level 3**, open 8:30am to 4:00pm for CDU students. It has a fridge, microwaves, a table-tennis table, lounges, bean bags and tables.\n- **Danala:** student lounges on **Level 3 and Level 4**, each with a kitchen area.",
+      "links": [],
+      "source": {"doc": "WCFAQ", "page": 9},
+      "approved": true,
+      "review_flag": null
+    },
+    {
+      "id": "darwin-community",
+      "category": "Social and community",
+      "level": "university",
+      "question": "How can I fit into the Darwin community?",
+      "alternatives": [
+        "volunteering in Darwin",
+        "local events in Darwin",
+        "get involved in the community",
+        "things to do in Darwin"
+      ],
+      "answer": "- Look for local events on Facebook and the **City of Darwin** website.\n- **Volunteer:** try the Careers Centre's **VALUE Program** (Volunteer and Learn) or **Volunteering NT**.\n- Join local events and activities.",
+      "links": [],
+      "source": {"doc": "WCFAQ", "page": 9},
+      "approved": true,
+      "review_flag": null
+    },
+    {
+      "id": "professional-connections",
+      "category": "Jobs and careers",
+      "level": "university",
+      "question": "How can I build professional connections?",
+      "alternatives": [
+        "careers centre services",
+        "mentor program",
+        "work experience program",
+        "networking with industry",
+        "internships",
+        "career advice appointment"
+      ],
+      "answer": "The **Careers Centre** offers workshops, drop-in sessions and career consultations (by appointment). You can reach it through the Student Portal.\n\nCurrent programs:\n- **AWESOME Program:** Australian work experience\n- **Mentor Program:** insight from industry\n- **VALUE Program:** volunteer and learn",
+      "links": [],
+      "source": {"doc": "WCFAQ", "page": 10},
+      "approved": true,
+      "review_flag": null
+    },
+    {
+      "id": "social-media",
+      "category": "Social and community",
+      "level": "university",
+      "question": "What are CDU's social media accounts?",
+      "alternatives": [
+        "CDU Facebook",
+        "CDU Instagram",
+        "follow CDU online",
+        "CDU TikTok"
+      ],
+      "answer": "Find these on Facebook, Instagram, X (Twitter) and TikTok:\n- Charles Darwin University\n- CDU Careers Centre\n- CDU Student Life\n- CDU Library",
+      "links": [],
+      "source": {"doc": "WCFAQ", "page": 10},
+      "approved": true,
+      "review_flag": null
+    },
+    {
+      "id": "shuttle-bus",
+      "category": "Getting around Darwin",
+      "level": "university",
+      "question": "Is there a CDU bus between Danala and Casuarina?",
+      "alternatives": [
+        "shuttle bus between campuses",
+        "Danala to Casuarina bus",
+        "CDU bus timetable",
+        "free campus shuttle"
+      ],
+      "answer": "Yes. The CDU bus runs on a **fixed timetable**. Search **Bus service** on the CDU website for the latest times.",
+      "links": [],
+      "source": {"doc": "WCFAQ", "page": 11},
+      "approved": true,
+      "review_flag": null
+    },
+    {
+      "id": "public-transport",
+      "category": "Getting around Darwin",
+      "level": "university",
+      "question": "What public transport options are there in Darwin?",
+      "alternatives": [
+        "buses in Darwin",
+        "how do I get to campus by bus",
+        "bus to Casuarina",
+        "student concession bus",
+        "public transport Palmerston",
+        "bus timetable Darwin"
+      ],
+      "answer": "Buses run between **Darwin City, Casuarina and Palmerston**. CDU students get a **concession fare seven days a week**. Show your **student ID card** to the driver.\n\nServices can change at short notice, and timetables are updated on Monday mornings. For updates, see the **CDC NT** Facebook page, call **08 8944 2444**, or use the bus tracker app.",
+      "links": [
+        {"label": "NT bus fares", "url": "https://nt.gov.au/driving/public-transport-cycling/public-buses/fares"}
+      ],
+      "source": {"doc": "WCFAQ", "page": 11},
+      "approved": true,
+      "review_flag": "The source says buses were free 'for some time'. That wording is left out because it's likely out of date. Check current fares."
+    },
+    {
+      "id": "bus-tickets",
+      "category": "Getting around Darwin",
+      "level": "university",
+      "question": "How do I pay for buses in Darwin?",
+      "alternatives": [
+        "Tap and Ride card",
+        "concession bus card",
+        "bus ticket price",
+        "where to buy a bus card"
+      ],
+      "answer": "You can buy a ticket or a **Tap and Ride** card. A **concession** Tap and Ride card is available from the bus interchanges in **Darwin and Casuarina**. Bring your **student ID card** to get it.",
+      "links": [
+        {"label": "NT bus fares", "url": "https://nt.gov.au/driving/public-transport-cycling/public-buses/fares"}
+      ],
+      "source": {"doc": "WCFAQ", "page": 11},
+      "approved": true,
+      "review_flag": null
+    },
+    {
+      "id": "driving-licence",
+      "category": "Getting around Darwin",
+      "level": "university",
+      "question": "I have a driver's licence. Can I drive in the Northern Territory?",
+      "alternatives": [
+        "overseas driving licence NT",
+        "international driving permit",
+        "can I drive with my foreign license",
+        "transfer to NT driver licence",
+        "license translation"
+      ],
+      "answer": "You can drive in the NT on your overseas licence for a **limited time**.\n\n- If your licence isn't in English, you need an **International Driving Permit**, or an official English translation from an authorised translator in the NT. Carry it with your licence whenever you drive.\n- If you stay in the NT **for more than 3 months**, you must transfer to an **NT driver licence**.",
+      "links": [
+        {"label": "NT licence rules for new residents", "url": "https://nt.gov.au/driving/licence/new-nt-residents-and-visitors/driver-licence-rules-for-new-nt-residents-and-visiting-drivers"}
+      ],
+      "source": {"doc": "WCFAQ", "page": 11},
+      "approved": true,
+      "review_flag": null
+    },
+    {
+      "id": "find-job",
+      "category": "Jobs and careers",
+      "level": "university",
+      "question": "How do I get help finding a job?",
+      "alternatives": [
+        "part time job",
+        "find work in Australia",
+        "job search help",
+        "how do I get a job in Darwin",
+        "casual work while studying"
+      ],
+      "answer": "The **Careers Centre** can help:\n- Log in to the Careers Centre through the **CDU Portal** and click the green **How do I get a job?** tile.\n- Attend the **How to find work in Australia?** workshop. Register under *Events and appointments*.",
+      "links": [],
+      "source": {"doc": "WCFAQ", "page": 12},
+      "approved": true,
+      "review_flag": null
+    },
+    {
+      "id": "resume-check",
+      "category": "Jobs and careers",
+      "level": "university",
+      "question": "Can someone check my resume?",
+      "alternatives": [
+        "CV review",
+        "resume help",
+        "check my cover letter",
+        "job application feedback"
+      ],
+      "answer": "Yes. Log in to the Careers Centre through the **CDU Portal** and use the **CV Review** tool under *Job application tools*. After that, book an appointment with a **Careers Consultant** under *Events and appointments*.",
+      "links": [],
+      "source": {"doc": "WCFAQ", "page": 12},
+      "approved": true,
+      "review_flag": null
+    },
+    {
+      "id": "overseas-qualification",
+      "category": "Jobs and careers",
+      "level": "university",
+      "question": "How do I get my overseas qualification assessed?",
+      "alternatives": [
+        "skills recognition",
+        "recognise my overseas degree",
+        "qualification assessment Australia"
+      ],
+      "answer": "Contact the **Skills Recognition Centre**.",
+      "links": [
+        {"label": "Skills Recognition Centre", "url": "https://www.skillsrecognitioncentre.edu.au/"}
+      ],
+      "source": {"doc": "WCFAQ", "page": 12},
+      "approved": true,
+      "review_flag": null
+    },
+    {
+      "id": "visa-work-hours",
+      "category": "International students",
+      "level": "university",
+      "question": "I have a question about my visa and working hours. How do I get help?",
+      "alternatives": [
+        "how many hours can I work on a student visa",
+        "student visa conditions",
+        "leave of absence international student",
+        "reduced study load",
+        "OSHC health cover",
+        "visa compliance"
+      ],
+      "answer": "Start with CDU's **Student visa** page.\n\nFor more detailed matters, use the **Compliance and enrolment** page for international students. This covers leave of absence, CoE extensions, reduced study load, OSHC, international scholarships and compliance issues.\n\nFor anything about your own visa, contact **CDU Global** at international@cdu.edu.au.",
+      "links": [
+        {"label": "Student visa", "url": "https://www.cdu.edu.au/international/international-student-information/new-international-students/student-visa"},
+        {"label": "Compliance and enrolment", "url": "https://www.cdu.edu.au/international/international-student-information/current-international-students/compliance-enrolment"}
+      ],
+      "source": {"doc": "WCFAQ", "page": 12},
+      "approved": true,
+      "review_flag": null
+    },
+    {
+      "id": "bank-phone",
+      "category": "International students",
+      "level": "university",
+      "question": "I'm an international student. How do I get a bank account and phone?",
+      "alternatives": [
+        "open a bank account in Australia",
+        "get a SIM card",
+        "just arrived in Darwin what do I do",
+        "upon arrival checklist international"
+      ],
+      "answer": "Everything for newly arrived international students, including banking and phones, is on CDU's **Upon arrival** page.",
+      "links": [
+        {"label": "Upon arrival", "url": "https://www.cdu.edu.au/international/international-student-information/new-international-students/upon-arrival"}
+      ],
+      "source": {"doc": "WCFAQ", "page": 12},
+      "approved": true,
+      "review_flag": null
+    },
+    {
+      "id": "intl-unconfirmed",
+      "category": "International students",
+      "level": "university",
+      "question": "I accepted my offer but my status still says unconfirmed and I can't enrol",
+      "alternatives": [
+        "offer status unconfirmed",
+        "international enrolment problem",
+        "accepted offer but can't enrol",
+        "offer not accepted yet",
+        "contact CDU Global"
+      ],
+      "answer": "This often resolves itself:\n- **Onshore:** allow about **48 hours** after accepting.\n- **Offshore:** it can take about **5 working days** for your payment to arrive, which then changes your status to accepted.\n\nIf it's past that time, or you have any other question about international enrolment, email **CDU Global** at international@cdu.edu.au.",
+      "links": [],
+      "source": {"doc": "WCFAQ", "page": 12},
+      "approved": true,
+      "review_flag": null
+    },
+    {
+      "id": "gms-change-course",
+      "category": "Scholarships",
+      "level": "university",
+      "question": "Can I change to a different course and keep my Global Merit Scholarship?",
+      "alternatives": [
+        "course transfer scholarship",
+        "change course GMS",
+        "will I lose my scholarship if I change course"
+      ],
+      "answer": "Yes, as long as your **new course is also eligible** for the Global Merit Scholarship (GMS).\n\n- **Commencing students:** email international@cdu.edu.au to request the change.\n- **Continuing students:** complete the **Course Transfer eForm**.",
+      "links": [],
+      "source": {"doc": "WCFAQ", "page": 13},
+      "approved": true,
+      "review_flag": "Based on the 2024-2025 GMS terms and conditions. Check against the current T&Cs."
+    },
+    {
+      "id": "gms-fees",
+      "category": "Scholarships",
+      "level": "university",
+      "question": "When do I need to pay my fees to keep my Global Merit Scholarship?",
+      "alternatives": [
+        "fee deadline scholarship",
+        "GMS payment due",
+        "pay fees census date",
+        "late fees scholarship"
+      ],
+      "answer": "Pay your fees by **close of business on the Census Date** of the semester you're enrolled in. If you have trouble paying, contact **Fees** straight away (fees@cdu.edu.au).",
+      "links": [
+        {"label": "Important dates", "url": "https://www.cdu.edu.au/current-students/student-admin/important-dates"}
+      ],
+      "source": {"doc": "WCFAQ", "page": 13},
+      "approved": true,
+      "review_flag": "Based on the 2024-2025 GMS terms and conditions. Check against the current T&Cs."
+    },
+    {
+      "id": "gms-multiple",
+      "category": "Scholarships",
+      "level": "university",
+      "question": "Can I hold more than one scholarship?",
+      "alternatives": [
+        "two scholarships at once",
+        "Study NT scholarship and GMS together",
+        "combine scholarships"
+      ],
+      "answer": "Generally you can hold only **one** scholarship. The exception is the **Study NT Scholarship**, which you can hold at the same time.",
+      "links": [],
+      "source": {"doc": "WCFAQ", "page": 13},
+      "approved": true,
+      "review_flag": "Based on the 2024-2025 GMS terms and conditions. Check against the current T&Cs."
+    },
+    {
+      "id": "gms-study-load",
+      "category": "Scholarships",
+      "level": "university",
+      "question": "How many units do I need to enrol in to keep my Global Merit Scholarship?",
+      "alternatives": [
+        "full time study load",
+        "how many credit points per semester",
+        "80 credit points per year",
+        "minimum units scholarship"
+      ],
+      "answer": "Enrol in at least **80 credit points per year** (in line with student visa conditions), usually **40CP each in Semesters 1 and 2**, unless you have an approved **Reduced Study Load**.\n\nIf you can't take a full load (for example, because of a Learning Management Plan restriction), request a Reduced Study Load **before the deadline** and get approval from CDU Global.",
+      "links": [],
+      "source": {"doc": "WCFAQ", "page": 13},
+      "approved": true,
+      "review_flag": "Based on the 2024-2025 GMS terms and conditions. Check against the current T&Cs."
+    },
+    {
+      "id": "gms-fail-unit",
+      "category": "Scholarships",
+      "level": "university",
+      "question": "If I fail a unit, do I lose my scholarship?",
+      "alternatives": [
+        "failed a unit scholarship",
+        "academic progress scholarship",
+        "under review notice",
+        "what happens if I fail"
+      ],
+      "answer": "Not for a first fail. To keep the GMS you need to maintain **satisfactory academic progress**, or have a **Learning Management Plan** in place and seen by CDU Global.\n\n- After a first fail, plan how to repeat the unit or find another pathway, especially if it's a core unit.\n- Repeated fails can lead to an Under Review or Under Progression notice. If you're contacted by the Progression team, **respond and follow their guidance**.\n- You may lose eligibility if you don't show improvement or don't tell CDU Global your plans.",
+      "links": [],
+      "source": {"doc": "WCFAQ", "page": 13},
+      "approved": true,
+      "review_flag": "Based on the 2024-2025 GMS terms and conditions. Check against the current T&Cs."
+    },
+    {
+      "id": "coe-extension",
+      "category": "International students",
+      "level": "university",
+      "question": "What happens if I need to extend my CoE?",
+      "alternatives": [
+        "CoE extension",
+        "extend confirmation of enrolment",
+        "need more time to finish my course visa"
+      ],
+      "answer": "Complete the **CoE extension request** on the CDU website and attach any supporting documents. CDU Global starts processing requests **after grades are released** for the semester. An outcome usually takes about **10 business days (2 weeks)** from grade release. Your GMS eligibility will be noted in the outcome.",
+      "links": [
+        {"label": "Compliance and enrolment", "url": "https://www.cdu.edu.au/international/international-student-information/current-international-students/compliance-enrolment"}
+      ],
+      "source": {"doc": "WCFAQ", "page": 14},
+      "approved": true,
+      "review_flag": null
+    },
+    {
+      "id": "fees-contact",
+      "category": "Contacts and escalation",
+      "level": "university",
+      "question": "Who do I contact about fees?",
+      "alternatives": [
+        "fees email",
+        "question about tuition fees",
+        "payment problem",
+        "fees team contact"
+      ],
+      "answer": "Email **fees@cdu.edu.au**. Fees staff can look at your situation. This assistant can't see your account.",
+      "links": [],
+      "source": {"doc": "WCFAQ", "page": 15},
+      "approved": true,
+      "review_flag": null
+    },
+    {
+      "id": "complaints",
+      "category": "Contacts and escalation",
+      "level": "university",
+      "question": "How do I make a complaint?",
+      "alternatives": [
+        "complaints email",
+        "I want to complain",
+        "raise a grievance",
+        "unfair treatment"
+      ],
+      "answer": "Email **complaints@cdu.edu.au**. For independent advice on appeals, complaints or university policy, you can also contact **Student Advocacy**.",
+      "links": [],
+      "source": {"doc": "WCFAQ", "page": 15},
+      "approved": true,
+      "review_flag": null
+    },
+    {
+      "id": "change-course",
+      "category": "International students",
+      "level": "university",
+      "question": "I'm a new international student and want to change my course or program",
+      "alternatives": [
+        "change program",
+        "switch course before classes start",
+        "course change international student",
+        "transfer to another course"
+      ],
+      "answer": "Email **international@cdu.edu.au** as soon as possible.\n- Before classes start: use **Course Change** in the subject line and explain your reasons.\n- Commencing students changing program: use **Change of Program** in the subject line.\n\nContinuing students use the **Course Transfer eForm**.",
+      "links": [],
+      "source": {"doc": "WCFAQ", "page": 15},
+      "approved": true,
+      "review_flag": null
+    },
+    {
+      "id": "danala-food",
+      "category": "Campus and wayfinding",
+      "level": "university",
+      "question": "Where can I get food at Danala?",
+      "alternatives": [
+        "cafe at Danala",
+        "food near Danala campus",
+        "vending machine Danala",
+        "Woolworths near Danala"
+      ],
+      "answer": "Danala has **food vending machines**, one at the entrance of Foyer 1. There's also a **café and a Woolworths** across the road at the front.",
+      "links": [],
+      "source": {"doc": "WCFAQ", "page": 15},
+      "approved": true,
+      "review_flag": null
+    },
+    {
+      "id": "danala-bathroom",
+      "category": "Campus and wayfinding",
+      "level": "university",
+      "question": "Where are the bathrooms at Danala?",
+      "alternatives": [
+        "toilet Danala",
+        "restroom Danala campus"
+      ],
+      "answer": "Bathrooms are **beside the lifts in each foyer**. They're also shown on the floor map on each level.",
+      "links": [],
+      "source": {"doc": "WCFAQ", "page": 15},
+      "approved": true,
+      "review_flag": null
+    },
+    {
+      "id": "counselling",
+      "category": "Health and wellbeing",
+      "level": "university",
+      "question": "I'm feeling stressed or overwhelmed. Who can I talk to?",
+      "alternatives": [
+        "counselling service",
+        "mental health support",
+        "I feel anxious about uni",
+        "I'm not coping",
+        "talk to a counsellor",
+        "homesick and stressed"
+      ],
+      "answer": "You don't have to handle this alone. **CDU Counselling** offers **free, confidential** support for personal, family, mental health or general wellbeing concerns.\n\n- Email: **counselling@cdu.edu.au**\n- Phone: **+61 8 8946 6288**\n- In person: Blue 5, Casuarina\n\nIf you're in danger or need urgent help, call **000**, or **Lifeline 13 11 14** (24/7).",
+      "links": [],
+      "source": {"doc": "WCFAQ", "page": 16},
+      "approved": true,
+      "review_flag": null
+    },
+    {
+      "id": "security",
+      "category": "Health and wellbeing",
+      "level": "university",
+      "question": "How do I contact campus security?",
+      "alternatives": [
+        "security phone number",
+        "SafeZone app",
+        "I feel unsafe on campus",
+        "walk me to my car at night",
+        "campus safety"
+      ],
+      "answer": "**CDU Security** provides **24/7** campus safety services.\n- Phone: **+61 8 8946 6666**\n- Office: Orange 2, Level 1, opposite Student Central\n- Download the free **SafeZone** app to contact Security and Safety directly.\n\nIn an emergency, call **000**.",
+      "links": [],
+      "source": {"doc": "WCFAQ", "page": 16},
+      "approved": true,
+      "review_flag": null
+    },
+    {
+      "id": "access-inclusion",
+      "category": "Health and wellbeing",
+      "level": "university",
+      "question": "I have a disability or health condition. Can I get study adjustments?",
+      "alternatives": [
+        "disability support",
+        "reasonable adjustments",
+        "access plan",
+        "extra time in exams disability",
+        "access and inclusion"
+      ],
+      "answer": "Yes. **Access and Inclusion** supports students with disabilities or health conditions by arranging **reasonable adjustments**.\n- Email: **inclusion@cdu.edu.au**\n- Register through the Access and Inclusion page.",
+      "links": [],
+      "source": {"doc": "WCFAQ", "page": 16},
+      "approved": true,
+      "review_flag": null
+    },
+    {
+      "id": "student-advocacy",
+      "category": "Contacts and escalation",
+      "level": "university",
+      "question": "Who can give me independent advice about an appeal or unfair treatment?",
+      "alternatives": [
+        "student advocacy",
+        "academic appeal help",
+        "conflict with lecturer",
+        "university policy advice"
+      ],
+      "answer": "**Student Advocacy** gives independent support for academic appeals, complaints, fair treatment and understanding university policy. Submit an enquiry through the Student Advocacy page.",
+      "links": [],
+      "source": {"doc": "WCFAQ", "page": 16},
+      "approved": true,
+      "review_flag": null
+    },
+    {
+      "id": "first-nations-support",
+      "category": "Health and wellbeing",
+      "level": "university",
+      "question": "Is there support for Aboriginal and Torres Strait Islander students?",
+      "alternatives": [
+        "First Nations student support",
+        "Indigenous student services",
+        "Aboriginal tutoring support"
+      ],
+      "answer": "**First Nations Student Support** offers tailored support for Aboriginal and Torres Strait Islander students, including tutoring and cultural services.\n- Email: **fnssreception@cdu.edu.au**\n- Phone: **+61 8 8946 6479**",
+      "links": [],
+      "source": {"doc": "WCFAQ", "page": 17},
+      "approved": true,
+      "review_flag": null
+    },
+    {
+      "id": "iss-support",
+      "category": "International students",
+      "level": "university",
+      "question": "Where can international students get general support?",
+      "alternatives": [
+        "international student support",
+        "ISS email",
+        "I'm an international student and need help",
+        "who helps international students with wellbeing"
+      ],
+      "answer": "**International Student Support (ISS)** helps with wellbeing, visa and academic support, and can point you to the right service.\n- Email: **iss@cdu.edu.au**\n\nFor visa-related changes, contact **CDU Global** (international@cdu.edu.au).",
+      "links": [],
+      "source": {"doc": "WCFAQ", "page": 16},
+      "approved": true,
+      "review_flag": null
+    },
+    {
+      "id": "who-to-contact",
+      "category": "Contacts and escalation",
+      "level": "university",
+      "question": "Which student support service should I contact?",
+      "alternatives": [
+        "who do I ask for help",
+        "student support services list",
+        "where do I go for help",
+        "who's who in student support"
+      ],
+      "answer": "- **Student Central:** admin such as unit changes, RPL and enrolments\n- **CDU Global:** visa-related changes for international students\n- **International Student Support (iss@cdu.edu.au):** friendly help with any problem\n- **Counselling:** emotional and mental health support\n- **Language & Learning Advisors:** English and study support appointments\n- **Peer Advisors:** informal study help from fellow students\n- **Online Tutoring (via Learnline):** 24/7 subject help\n- **Careers Centre:** jobs, resumes, internships, volunteering\n- **Student Advocacy:** fair treatment, appeals, conflict resolution\n- **Access and Inclusion:** adjustments for disability or health conditions",
+      "links": [],
+      "source": {"doc": "WCFAQ", "page": 16},
+      "approved": true,
+      "review_flag": null
+    },
+    {
+      "id": "student-central",
+      "category": "Contacts and escalation",
+      "level": "university",
+      "question": "How do I contact Student Central?",
+      "alternatives": [
+        "Student Central phone number",
+        "Student Central email",
+        "talk to a real person",
+        "speak to a human",
+        "contact the university",
+        "credit transfer RPL",
+        "recognition of prior learning"
+      ],
+      "answer": "**Student Central** handles admin such as enrolments, unit changes and RPL (credit transfer).\n- Phone: **1800 061 963**\n- Email: **student.central@cdu.edu.au**\n- In person: Student Central in Orange 1 (Casuarina), or the support staff in the **Library Foyer**",
+      "links": [],
+      "source": {"doc": "WCFAQ", "page": 17},
+      "approved": true,
+      "review_flag": null
+    },
+    {
+      "id": "unit-online-class",
+      "category": "My units",
+      "level": "unit",
+      "question": "How do I join my online class?",
+      "alternatives": [
+        "join online lecture",
+        "zoom link for my class",
+        "collaborate link tutorial",
+        "where is the link for my online tutorial",
+        "attend class online"
+      ],
+      "answer": "Links to online classes are usually in your unit's **Learnline** site. Check the unit announcements and the weekly or Getting Started area.\n\nIf you can't find the link, contact your **unit coordinator or lecturer**. Their details are in the unit's Learnline site.",
+      "links": [],
+      "source": {"doc": "TEAM", "page": null},
+      "approved": false,
+      "review_flag": "Team-written placeholder for a unit-level question. Needs Student Success staff approval."
+    },
+    {
+      "id": "unit-recordings",
+      "category": "My units",
+      "level": "unit",
+      "question": "Where can I find recorded lectures?",
+      "alternatives": [
+        "lecture recording",
+        "missed a lecture where is the recording",
+        "watch recorded class",
+        "echo recordings"
+      ],
+      "answer": "Recordings are usually posted in your unit's **Learnline** site. Each unit can organise them differently, so check the unit's menu and announcements.\n\nIf a recording is missing, ask your **unit coordinator or lecturer**.",
+      "links": [],
+      "source": {"doc": "TEAM", "page": null},
+      "approved": false,
+      "review_flag": "Team-written placeholder for a unit-level question. Needs Student Success staff approval."
+    },
+    {
+      "id": "unit-assessment-dates",
+      "category": "My units",
+      "level": "unit",
+      "question": "When is my assessment due?",
+      "alternatives": [
+        "assignment due date",
+        "when is my exam",
+        "assessment deadline",
+        "where do I submit my assignment",
+        "unit outline assessment schedule"
+      ],
+      "answer": "Due dates and submission instructions are in your **unit outline** and in the **Assessment** area of your unit's **Learnline** site.\n\nIf you're unsure or need an extension, contact your **unit coordinator** before the due date.",
+      "links": [],
+      "source": {"doc": "TEAM", "page": null},
+      "approved": false,
+      "review_flag": "Team-written placeholder for a unit-level question. Needs Student Success staff approval."
+    },
+    {
+      "id": "unit-materials",
+      "category": "My units",
+      "level": "unit",
+      "question": "Where do I find my unit materials?",
+      "alternatives": [
+        "where are my lecture slides",
+        "which folder are the readings in",
+        "can't find my unit on Learnline",
+        "unit content",
+        "weekly readings"
+      ],
+      "answer": "Unit materials (slides, readings, weekly content) are in your unit's **Learnline** site. Lecturers organise folders differently, so start with the unit's Getting Started or Weekly Content area.\n\nIf a unit isn't showing in Learnline, check you're **enrolled** in it. Student Central can help with that.",
+      "links": [],
+      "source": {"doc": "TEAM", "page": null},
+      "approved": false,
+      "review_flag": "Team-written placeholder for a unit-level question. Needs Student Success staff approval."
+    }
+  ]
+}

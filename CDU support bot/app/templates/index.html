@@ -1,0 +1,126 @@
+<!doctype html>
+<html lang="en-AU">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>{{ brand_name }}</title>
+  <meta name="description" content="Quick answers to common questions for new CDU students, by text or voice.">
+  <meta name="theme-color" content="#0c2233">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <link rel="manifest" href="/manifest.webmanifest">
+  <link rel="icon" href="{{ url_for('static', filename='icon.svg') }}" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="{{ url_for('static', filename='icon.svg') }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,650;12..96,750&family=Figtree:wght@400;500;600;700&display=swap">
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <div class="photos" id="photos" aria-hidden="true">{% for f in backgrounds %}<i data-src="{{ url_for('static', filename='bg/' ~ f) }}"></i>{% endfor %}</div>
+  <div class="aurora" aria-hidden="true"><i></i><i></i><i></i><i></i></div>
+  <a class="skip" href="#input">Skip to question box</a>
+
+  <header class="top glass">
+    <div class="brand">
+      {% if brand_logo %}
+        <img class="logo" src="{{ url_for('static', filename=brand_logo) }}" alt="Charles Darwin University">
+      {% else %}
+        <img class="mark" src="{{ url_for('static', filename='icon.svg') }}" alt="" width="40" height="40">
+      {% endif %}
+      <div class="brand-text">
+        <h1>{{ brand_name }}</h1>
+      </div>
+    </div>
+    <nav class="actions" aria-label="Chat actions">
+      <button class="icon-btn" id="new-btn" title="Start a new chat" aria-label="Start a new chat">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 5v14M5 12h14"/></svg>
+      </button>
+      <button class="icon-btn" id="theme-btn" title="Switch light or dark" aria-label="Switch light or dark theme">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20 14.5A8 8 0 0 1 9.5 4 8 8 0 1 0 20 14.5z"/></svg>
+      </button>
+      <button class="pill ghost" id="browse-btn" aria-expanded="false" aria-controls="drawer">Topics</button>
+      <button class="pill solid" id="human-btn">Talk to a person</button>
+    </nav>
+  </header>
+
+  <main id="chat" aria-label="Conversation">
+    <section class="welcome" id="welcome">
+      <h2>What do you need sorted this week?</h2>
+      <p>Ask in your own words, by typing or talking. If I can't help, I'll point you to someone who can.</p>
+      <div class="chips" id="starter-chips">
+        <button data-q="How do I activate my student account?">Activate my account</button>
+        <button data-q="How do I connect to Wi-Fi on campus?">Connect to Wi-Fi</button>
+        <button data-q="Where can I find my timetable?">Find my timetable</button>
+        <button data-q="How do I get a student card?">Get my student card</button>
+        <button data-q="What does Blue 5.1.24 mean?">Read a room code</button>
+        <button data-q="I need help finding accommodation">Find somewhere to live</button>
+        <button data-q="Where can I find recorded lectures?">Lecture recordings</button>
+        <button data-q="How can I meet new friends on campus?">Meet people</button>
+      </div>
+      <button class="voice-cta" id="voice-cta" type="button">
+        <span class="mini-orb" aria-hidden="true"></span>
+        <span><strong>Talk instead</strong><small>Hands-free voice chat</small></span>
+      </button>
+    </section>
+    <div id="log" aria-live="polite"></div>
+  </main>
+
+  <footer class="composer">
+    <ul class="suggest glass" id="suggest" role="listbox" aria-label="Suggested questions" hidden></ul>
+    <form id="form" class="glass" autocomplete="off">
+      <button type="button" class="c-btn" id="mic-btn" title="Dictate your question" aria-label="Dictate your question">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><rect x="9" y="3" width="6" height="11" rx="3"/><path d="M5.5 11a6.5 6.5 0 0 0 13 0M12 17.5V21"/></svg>
+      </button>
+      <label for="input" class="sr">Your question</label>
+      <textarea id="input" rows="1" maxlength="500" placeholder="Ask about enrolment, Wi-Fi, buses…" required
+        role="combobox" aria-expanded="false" aria-controls="suggest" aria-autocomplete="list"></textarea>
+      <button type="button" class="c-btn" id="voice-btn" title="Start voice chat" aria-label="Start voice chat">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 10v4M8 7v10M12 4v16M16 7v10M20 10v4"/></svg>
+      </button>
+      <button type="submit" id="send" aria-label="Send">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12h13M13 6l6 6-6 6"/></svg>
+      </button>
+    </form>
+    <p class="fine">AI assistant (student prototype). Please don't share personal details.</p>
+  </footer>
+
+  <aside class="drawer glass" id="drawer" hidden aria-label="All topics">
+    <div class="drawer-head">
+      <h2>All topics</h2>
+      <button class="pill ghost" id="drawer-close">Close</button>
+    </div>
+    <input type="search" id="topic-filter" placeholder="Filter questions" aria-label="Filter questions">
+    <div id="topics"></div>
+  </aside>
+  <div class="scrim" id="scrim" hidden></div>
+
+  <section class="voice" id="voice" hidden role="dialog" aria-modal="true" aria-labelledby="voice-status">
+    <div class="voice-inner">
+      <p class="voice-hint">Voice chat</p>
+      <button class="orb" id="orb" data-state="idle" aria-describedby="voice-status">
+        <span class="orb-core"></span><span class="orb-ring"></span><span class="orb-ring r2"></span>
+        <span class="sr" id="orb-label">Tap to talk</span>
+      </button>
+      <p class="voice-status" id="voice-status" aria-live="assertive">Getting ready…</p>
+      <p class="voice-heard" id="voice-heard"></p>
+      <div class="voice-reply" id="voice-reply" aria-live="polite"></div>
+      <form class="voice-type" id="voice-form" autocomplete="off">
+        <label for="voice-input" class="sr">Type your question</label>
+        <input id="voice-input" type="text" maxlength="500" placeholder="Or type here and I'll say the answer">
+        <button type="submit" class="pill ghost">Ask</button>
+      </form>
+      <div class="voice-controls">
+        <button class="pill ghost" id="voice-test">Test microphone</button>
+        <button class="pill ghost" id="voice-mute" aria-pressed="false">Mute replies</button>
+        <button class="pill solid" id="voice-end">End voice chat</button>
+      </div>
+      <div class="meter" id="voice-meter" hidden><span id="voice-meter-bar"></span></div>
+      <p class="voice-diag" id="voice-diag"></p>
+      <p class="voice-note">Please don't say personal details. Say "stop" to finish.</p>
+    </div>
+  </section>
+
+  <div class="toast" id="toast" role="status" hidden></div>
+  <script src="{{ url_for('static', filename='app.js') }}"></script>
+</body>
+</html>

@@ -1,0 +1,10 @@
+# Streamlit app (streamlit_app.py)
+streamlit>=1.65
+SpeechRecognition>=3.10
+gTTS>=2.5
+# Shared matching engine
+scikit-learn>=1.4,<2
+numpy>=1.26
+# Flask version (wsgi.py) – optional for Streamlit deployments
+Flask>=3.0,<4
+gunicorn>=22.0

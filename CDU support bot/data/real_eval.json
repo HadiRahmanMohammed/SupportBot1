@@ -1,0 +1,940 @@
+{
+ "description": "Real first-year questions from the CDU New Student Q&A Corner (Student Portal), names removed. 'accept' lists the knowledge-base entries that would correctly answer the question, judged by topic; an empty list means nothing in the knowledge base answers it, so deferring to Student Central is the right outcome. dev = even question ids (used to find gaps and draft new entries); test = odd ids (held out, never used for drafting or tuning).",
+ "items": [
+  {
+   "qid": 250,
+   "split": "dev",
+   "question": "HELLO. My semester is going to end at 30 October and my next semester in 3rd March 2027. The exam week is 22-29 October. Does semester break counts from 30 October ? Or after the grade release?",
+   "accept": [
+    "dates-s2-2026",
+    "dates-2027",
+    "lib-important-dates"
+   ]
+  },
+  {
+   "qid": 247,
+   "split": "test",
+   "question": "one more question i started in this july semester semester is almost ending in end of oct and start of nov so when will new semester begin right in third or 4 week of nov and if yes then when this semester will going to end",
+   "accept": [
+    "dates-s2-2026",
+    "dates-summer-2026",
+    "dates-2027",
+    "lib-important-dates"
+   ]
+  },
+  {
+   "qid": 246,
+   "split": "dev",
+   "question": "HI , I want to ask is their any sports society in sydney campus",
+   "accept": []
+  },
+  {
+   "qid": 244,
+   "split": "dev",
+   "question": "Hi there, I have this year commenced studying law, after completing a Business degree in April. I think I am tapped out with study and looking for a break. How do I make this happen? Who do I talk to etc? Thanks.",
+   "accept": [
+    "lib-take-break-from-studies",
+    "lib-withdraw-from-unit"
+   ]
+  },
+  {
+   "qid": 242,
+   "split": "dev",
+   "question": "Hi, I remember when first starting TEP last semester that we had free access to Office 365. (Unless I misheard) Is someone able to tell me how to gain access to this?",
+   "accept": [
+    "lib-get-office-365"
+   ]
+  },
+  {
+   "qid": 240,
+   "split": "dev",
+   "question": "What is the cutoff date to withdraw from a subject without penalty?",
+   "accept": [
+    "lib-census-date-when-it",
+    "lib-penalties-withdrawing-from-unit",
+    "dates-s2-2026",
+    "dates-s1-2026",
+    "lib-important-dates",
+    "lib-withdraw-from-unit"
+   ]
+  },
+  {
+   "qid": 237,
+   "split": "test",
+   "question": "Hello I am currently a new student here at Charles Darwin University, studying externally. I am having difficulty with studying and understanding the study plan structure. Being nervous to ask a lecturer directly, I thought I might come here to see if anybody could help? I need a basic understanding of how to interpret the study plan structure - in order to make a semester plan including all units. This also needs to include Assessment start dates and submission dates. My main question is: How do I work out which specified activities in the study plan support the assessment? I have been torturing myself trying to figure it out.",
+   "accept": [
+    "study-plan",
+    "study-skills",
+    "student-central"
+   ]
+  },
+  {
+   "qid": 235,
+   "split": "test",
+   "question": "Hello Is there an easy way to add the assessment dates into the timetable, other than typing them in individually? I have put some into outlook calendar and synced it with the portal timetable but the assessment due dates haven't transferred.",
+   "accept": []
+  },
+  {
+   "qid": 232,
+   "split": "dev",
+   "question": "Hi there, I'm trying to locate recordings from previous classes as I'm studying online for the first time, I've tried going through learnline I've clicked here & there & can't seem to find recordings of my classes help?!",
+   "accept": [
+    "unit-recordings",
+    "online-attendance"
+   ]
+  },
+  {
+   "qid": 230,
+   "split": "dev",
+   "question": "Hi everyone, just was checking my timetable and wondered if my classes are online in NT time?",
+   "accept": [
+    "timetable-time-zone"
+   ]
+  },
+  {
+   "qid": 228,
+   "split": "dev",
+   "question": "Hi All, I have just embarked on a Semester 2 intake. I'm an Australian living in South Africa and will be completing my studies online. During the orientation this morning it was mentioned how important it is to have our student card, especially when it comes to final exams. I can't seem to find where i can start this process. Can someone please lead me to where I can get my student card please? and also, is it sent via email as an electronic card or is it a hard copy one that needs to be mailed?",
+   "accept": [
+    "student-card-online",
+    "student-card"
+   ]
+  },
+  {
+   "qid": 224,
+   "split": "dev",
+   "question": "Hi everyone, i am doing my second year of master of teaching secondary, i just finished my 1st semester of year 2 and going to start my second semester of year 2 and as per my study plan, i don't have summer semester so does anyone can help me when my second placement will start or where should i contact for it ( i did finished my first placement this year march). thank you for help and support.",
+   "accept": [
+    "placements-inplace"
+   ]
+  },
+  {
+   "qid": 223,
+   "split": "test",
+   "question": "Hi, I am about to start Mechanical Engineering online; where can I find my required booklist? I am also after some more general information regarding assessments - how do these work? Is there anyway I can find more information regarding the upcoming units and what they entail so that I can better prepare?",
+   "accept": [
+    "lib-find-out-if-unit-next-semester",
+    "lib-access-unit-reading-list",
+    "lib-find-readings-unit",
+    "lib-we-have-textbooks",
+    "unit-materials",
+    "units-not-open"
+   ]
+  },
+  {
+   "qid": 219,
+   "split": "test",
+   "question": "Hi there, I am studying Environmental Science online/external, I have just seen my timetable and it has an online tutorial at a set time - is this something I can participate in at my own pace? Or does it have to be at that exact time? Thanks!",
+   "accept": [
+    "online-attendance",
+    "unit-recordings"
+   ]
+  },
+  {
+   "qid": 217,
+   "split": "test",
+   "question": "Hi! I'm starting the Master of Applied Linguistics and its my first time at CDU. I thought timetable selection was starting today, but my units aren't showing up. Am I too early?",
+   "accept": [
+    "timetable-not-ready",
+    "timetable"
+   ]
+  },
+  {
+   "qid": 215,
+   "split": "test",
+   "question": "Hi, I am currently enrolled in Diploma of IT at CDU. After completing my first semester, I would like to transfer to Bachelor of Computer Science. Could you please advise the process and credit transfer options?",
+   "accept": [
+    "lib-apply-credit-transfer-rpl-advanced-standing",
+    "student-central"
+   ]
+  },
+  {
+   "qid": 213,
+   "split": "test",
+   "question": "I am currently enrolled in UCLED1 Grad Cert of Clinical Education. Can I take the course over 18 months? Currently enrolled in two units (1x Unit per Semester)",
+   "accept": [
+    "student-central",
+    "study-load"
+   ]
+  },
+  {
+   "qid": 210,
+   "split": "dev",
+   "question": "hi i am completing the pathway een to rn have registered for my units but cannot get access to any of them to begin am i missing something ??",
+   "accept": [
+    "units-not-open",
+    "student-central",
+    "unit-materials"
+   ]
+  },
+  {
+   "qid": 209,
+   "split": "test",
+   "question": "Hi team, I am studying at the Casurina Campus. Is there anywhere you can buy second hand textbooks? The library is all out of what I need and I would rather not purchase from the book store",
+   "accept": [
+    "lib-buy-books",
+    "lib-we-have-textbooks",
+    "lib-textbook-available-as-ebook"
+   ]
+  },
+  {
+   "qid": 203,
+   "split": "test",
+   "question": "where do i find the Cultural Responsiveness required for placement training online ? please help",
+   "accept": [
+    "placements-inplace"
+   ]
+  },
+  {
+   "qid": 202,
+   "split": "dev",
+   "question": "Hi there, I'm completing my Bachelor of Nursing via the EN pathway. Just wondering my pharmacology modules seem to be empty past week 1-2. Are they locked until closer to the date?",
+   "accept": [
+    "units-not-open"
+   ]
+  },
+  {
+   "qid": 201,
+   "split": "test",
+   "question": "Hi I am studying Mechanical Engineering. My current laptop is already nearly full. Do you have recommended specs for laptops for this course of study?",
+   "accept": []
+  },
+  {
+   "qid": 199,
+   "split": "test",
+   "question": "Hello, I am a new online student and was would like to know where I can get information on attendance. If I am unable to attend the live session and only view the recording, is there anything I need to do? Thank you",
+   "accept": [
+    "online-attendance"
+   ]
+  },
+  {
+   "qid": 197,
+   "split": "test",
+   "question": "Where can I find Inplace within the student portal?",
+   "accept": [
+    "placements-inplace"
+   ]
+  },
+  {
+   "qid": 194,
+   "split": "dev",
+   "question": "Could I please have some information on how to nominate dates for my simblock",
+   "accept": [
+    "placements-inplace",
+    "lib-who-contact-about-nursing-sim-block"
+   ]
+  },
+  {
+   "qid": 193,
+   "split": "test",
+   "question": "Where can I find the trainings which you must do and upload the certificates in placement my details section?",
+   "accept": [
+    "placements-inplace"
+   ]
+  },
+  {
+   "qid": 190,
+   "split": "dev",
+   "question": "Hello, I am a domestic online student for Bachelor of Primary Education. Am I able to attend the on campus orientation even though I am an online student? Some weeks I may also be available to attend lectures in person rather than online. Is this allowed? Thanks",
+   "accept": [
+    "orientation-attend"
+   ]
+  },
+  {
+   "qid": 187,
+   "split": "test",
+   "question": "Hello, new to CDU and starting a Bachelor of Education in Early Childhood and Primary. Quick question: I've just set up my timetable in the portal and am wondering whether lectures, etc., will be in Darwin time or Brisbane time? I'm sure I read something that the portal will set it in your local time, but now I cannot find anything.",
+   "accept": [
+    "timetable-time-zone"
+   ]
+  },
+  {
+   "qid": 186,
+   "split": "dev",
+   "question": "Hello! I am studying bachelor or nursing (enrolled nurse pathway) online and just wondering when the units will be open and available to view on Learnline? Thanks!",
+   "accept": [
+    "units-not-open"
+   ]
+  },
+  {
+   "qid": 185,
+   "split": "test",
+   "question": "Hi, new CDU student here to commence the Psychological Science Honours program. I am Tasmanian and am doing the course externally. I see a few lecture times available to me in my timetable and am just wondering how attendance works online- I work and don't think I am in the position to reduce my time at work to get around these lectures on the exact time that they are on. Is live attendance for lectures compulsory or are these recorded for the option to complete asynchronously?",
+   "accept": [
+    "online-attendance"
+   ]
+  },
+  {
+   "qid": 182,
+   "split": "dev",
+   "question": "Hello, brand new student here and enrolling in my semester 1 subjects. If I am studying part-time and the study plan shows 4 subjects (or units) do I just pick two of them?",
+   "accept": [
+    "study-load",
+    "study-plan"
+   ]
+  },
+  {
+   "qid": 179,
+   "split": "test",
+   "question": "Hi. I'm a new online student and I sent my lecturer an email to inform them that I am unable to attend class today. Is there any other attendance form that I need to fill out in the CDU Portal or in my profile for an official recording that needs to be completed. Thank you.",
+   "accept": [
+    "online-attendance"
+   ]
+  },
+  {
+   "qid": 178,
+   "split": "dev",
+   "question": "Hi, I'm a new student studying master of clinical audiology. I have trouble with adding new units on Student Portal, even though I changed another brownsers, there aren't any buttons on the 'units management' webpage. What should I do?",
+   "accept": [
+    "enrolling-help",
+    "student-central"
+   ]
+  },
+  {
+   "qid": 174,
+   "split": "dev",
+   "question": "Hello :) I am a student studying online, a Bachelor of Nursing Accelerated. 1 - When will the class timetable be confirmed? I have noticed a few classes have changed on my timetable since I last checked during the week. 2 - Are all the classes on my timetable the only classes I will have, or will more be added?",
+   "accept": [
+    "timetable-not-ready"
+   ]
+  },
+  {
+   "qid": 173,
+   "split": "test",
+   "question": "Hi, I’m a new student enrolled in Cert III in Fitness and I work full time. I believe classes have already started and there’s a study plan in place. Are there alternative timetables or flexible study plans for students who work full time? I’m just wanting to make sure I’m on track and not missing important information. Is anyone else in the same position as me?",
+   "accept": []
+  },
+  {
+   "qid": 172,
+   "split": "dev",
+   "question": "Hi there, I am student of Master of Nursing Practice (Pre-Registration). Yesterday I received an email from my placement officer to complete Stimulation Block nomination process via InPlace but I am unable to find my to do list as she instructed. I need some assistance on this matter. Thanks in advance.",
+   "accept": [
+    "placements-inplace",
+    "lib-who-contact-about-nursing-sim-block"
+   ]
+  },
+  {
+   "qid": 168,
+   "split": "dev",
+   "question": "Hi there l enrolled in graduate certificate of surgical nursing. How do l know my timetable as l cannot see anything on my end.",
+   "accept": [
+    "timetable-not-ready",
+    "timetable"
+   ]
+  },
+  {
+   "qid": 166,
+   "split": "dev",
+   "question": "Hi there. I am enrolled in Bachelor of Nursing External. It says on my plan that I could Enroll in 4 subjects but It only allowed me to enroll in 2. And I tried to access the overload form but the pdf is missing. Any info on where I can access the form?",
+   "accept": [
+    "enrolling-help",
+    "student-central"
+   ]
+  },
+  {
+   "qid": 162,
+   "split": "dev",
+   "question": "how do I know if I am studying full-time or part-time",
+   "accept": [
+    "study-load"
+   ]
+  },
+  {
+   "qid": 161,
+   "split": "test",
+   "question": "Hi, I will be studying the BOH degree, I applied for credits/RPL but haven’t heard anything back yet, how long does it take to receive the credits or to know what units I will receive credits for? Thanks",
+   "accept": [
+    "lib-apply-credit-transfer-rpl-advanced-standing",
+    "student-central"
+   ]
+  },
+  {
+   "qid": 155,
+   "split": "test",
+   "question": "Hello, I'm in Nursing (accelerated) and have RPL awarded, my options for placement are only showing two internal options (NT and NSW) but I'm in VIC and believed that I could do sim block and placement locally? How do I enroll for these locally?",
+   "accept": [
+    "placements-inplace"
+   ]
+  },
+  {
+   "qid": 154,
+   "split": "dev",
+   "question": "HI, I'm studying Bachelor of Nursing Online. I came to know that I have to book for Simulation Block for practicals. Any idea how and when can I book? Thanks",
+   "accept": [
+    "placements-inplace",
+    "lib-who-contact-about-nursing-sim-block"
+   ]
+  },
+  {
+   "qid": 153,
+   "split": "test",
+   "question": "Hi, I'm studying the Masters of Nursing Practice online. My timetable shows I have two online tutorials in the middle of the day while I would usually be working. Do you know if it's compulsory online attendance? Or can I watch the tutorials after work hours? The units are HE_EXT_1_NUR571 and HE_EXT_1_NUR531. I need to know if I have to change my work hours. Thank you",
+   "accept": [
+    "online-attendance"
+   ]
+  },
+  {
+   "qid": 151,
+   "split": "test",
+   "question": "Hello, I am studying batchelor of nursing WNURE1 and I have enrolled in the subjects but it is not allowing me to enroll in placement courses nur257 and nur260, help please",
+   "accept": [
+    "enrolling-help"
+   ]
+  },
+  {
+   "qid": 149,
+   "split": "test",
+   "question": "Hello, I am studying Bachelor of Social Work (S1 2026), when would the list be supplied for the books I have to purchase/read for the units please? Thank you :)",
+   "accept": [
+    "lib-find-out-if-unit-next-semester",
+    "lib-access-unit-reading-list",
+    "lib-find-readings-unit",
+    "units-not-open"
+   ]
+  },
+  {
+   "qid": 147,
+   "split": "test",
+   "question": "Hi, I started Bachelor of Education Early Childhood and Primary in the second semester of 2025. I study 100% online as I live in NSW. I was wondering how I go about organising placements? I have no idea where to start or who to contact.",
+   "accept": [
+    "placements-inplace"
+   ]
+  },
+  {
+   "qid": 145,
+   "split": "test",
+   "question": "I am beginning the Bachelor of Audiometry in 2026 (yay!), and will be doing it as a 100% online course. Does anyone know if there will be flexibility in the timing of the sessions, i.e. can you watch in your own time (after work) or will these need to be live sessions?",
+   "accept": [
+    "online-attendance",
+    "unit-recordings",
+    "future-2-have-study-on-campus-online"
+   ]
+  },
+  {
+   "qid": 142,
+   "split": "dev",
+   "question": "Hi, I'm just wondering who would be the best person to contact. I'd love someone to look at the study plan with me as I've come into my course with prior learning which means I haven't had to do some of the subjects with CDU. I'm looking for some guidance on interpreting the study plan/placements to see if I can utilise my time better with subjects or finish my degree earlier. Hopefully this makes sense!",
+   "accept": [
+    "study-plan",
+    "student-central"
+   ]
+  },
+  {
+   "qid": 140,
+   "split": "dev",
+   "question": "Hello, I am really hoping to enrol in unit NUR255 for this Summer Sem. I have completed the units needed. I know it is week 2, but I had time to get ahead. I have contacted Student Central (no reply yet), but I really want to enrol on time. Thanks.",
+   "accept": [
+    "enrolling-help",
+    "student-central"
+   ]
+  },
+  {
+   "qid": 137,
+   "split": "test",
+   "question": "Hi, I am trying to enroll for the Bachelor of Audiometry which was to be accessible from today, but the screen says \"Self Enrolment services are not currently available for your course(s). If you want to check your current enrolment record go to Course & Unit Details\". shall I wait a bit longer or call the Uni? Thank you for your advise.",
+   "accept": [
+    "enrolling-help",
+    "student-central"
+   ]
+  },
+  {
+   "qid": 135,
+   "split": "test",
+   "question": "Hi. I am after the dates for the Summer semester. Thankyou",
+   "accept": [
+    "dates-summer-2026",
+    "lib-important-dates",
+    "dates-2027"
+   ]
+  },
+  {
+   "qid": 133,
+   "split": "test",
+   "question": "im currently studying bachelor of IT our exams will be online or in person?",
+   "accept": [
+    "lib-find-information-about-exams",
+    "unit-assessment-dates"
+   ]
+  },
+  {
+   "qid": 131,
+   "split": "test",
+   "question": "Hi everyone, can someone guide me on how to upload the lantite results? Thanks",
+   "accept": []
+  },
+  {
+   "qid": 129,
+   "split": "test",
+   "question": "Hi everyone, I am Masters of Data Science student doing first semester. Can someone please tell me that where I can check my attandance on cdy portal. Can I check on learnline attandance section.",
+   "accept": []
+  },
+  {
+   "qid": 126,
+   "split": "dev",
+   "question": "Hi everyone, I am Master of Education Secondary external student doing second semester started this week. Can someone please guide me that when did summer semester starts( when placement starts) as my wife need to take annual leave from now if i know when placement starts? will really appreciate it if someone can help me on it. Thank you",
+   "accept": [
+    "dates-summer-2026",
+    "placements-inplace",
+    "dates-2027"
+   ]
+  },
+  {
+   "qid": 124,
+   "split": "dev",
+   "question": "Hi, I am an external student. Does anyone know if there is an external student group that may be used to discuss with or call other CDU external students? Thanks.",
+   "accept": []
+  },
+  {
+   "qid": 122,
+   "split": "dev",
+   "question": "Does anyone know who to get help with pebble pad",
+   "accept": []
+  },
+  {
+   "qid": 119,
+   "split": "test",
+   "question": "Hi everyone... i am starting my second semester soon in july... Just wondering if some one have any idea regarding how many unit is mandatory for full time Master of Teaching secondary for second semester....In my study plan, i got 2 core units and 2 specialist elective unit and 1 core unit with (0cp)? Help will be really appreciated...Thank you",
+   "accept": [
+    "study-load",
+    "study-plan",
+    "student-central"
+   ]
+  },
+  {
+   "qid": 116,
+   "split": "dev",
+   "question": "Hi, I am new to CDU - I am enrolled in Bachelor of Health and Science - I have some questions about my part time study plan. Who do I contact? TIA",
+   "accept": [
+    "study-plan",
+    "student-central",
+    "study-load"
+   ]
+  },
+  {
+   "qid": 111,
+   "split": "test",
+   "question": "Hey i am new to CDU and enrolled on to CHC50321 Diploma of Child, Youth and Family Intervention (DCYFI)) however i can't seem to locate my units on Learnline- who am i best to speak to for supports on this? Thanks in advance for the help!",
+   "accept": [
+    "units-not-open",
+    "unit-materials",
+    "lib-who-help-me-with-learnline"
+   ]
+  },
+  {
+   "qid": 110,
+   "split": "dev",
+   "question": "hi, does master of teaching full time students have exam at the end of semester? As i have been doing assignment and still doing but there is nothing mentioned about exams....does it mean that i got only assignments? Thank you in advance for the help",
+   "accept": [
+    "lib-find-information-about-exams",
+    "unit-assessment-dates"
+   ]
+  },
+  {
+   "qid": 109,
+   "split": "test",
+   "question": "hi everyone, i am almost finishing my first semester of master of teaching full time ...just wondering, when my placement will start and whom should i contact? what is the procedure ? will really appreciate if someone can guide me please...thank you",
+   "accept": [
+    "placements-inplace"
+   ]
+  },
+  {
+   "qid": 107,
+   "split": "test",
+   "question": "1st year Midwifery student with advanced standing. I haven't had to attend a sim block this semester, we have just been told it is up and available for semester 2, I can't see anything on InPlace, am I looking in the right place?",
+   "accept": [
+    "placements-inplace",
+    "lib-who-contact-about-nursing-sim-block"
+   ]
+  },
+  {
+   "qid": 105,
+   "split": "test",
+   "question": "Hi, I am starting my Masters of Teaching in S2 and doing it interstate/online. Is there someone that is able to help me with my timetable/study schedule? I am hoping to do s2 part-time and swap to full-time next year :)",
+   "accept": [
+    "study-plan",
+    "study-load",
+    "student-central",
+    "timetable"
+   ]
+  },
+  {
+   "qid": 103,
+   "split": "test",
+   "question": "Hi, I am a new student studying online and I'm having a hard time finding my unit information to start studying. I've found the unit tab to click on in learnline, but it isn't showing me where to click on to open my course and start. silly question but can someone please lead me in the right direction? thank you",
+   "accept": [
+    "unit-materials",
+    "units-not-open",
+    "lib-who-help-me-with-learnline"
+   ]
+  },
+  {
+   "qid": 101,
+   "split": "test",
+   "question": "Hi! I am a new student. I am taking online course (Cert III in Individual Support) and it says there is a compulsory weekly online contact every Wednesday Evening. How do I get more information about this? 1. how to access the weekly online contact session? (no link has been given) 2. when will this start? I also have been told that my unit will be enrolled by CDU automatically but i only found 2 units instead of 4. where should i go to ask all this questions?",
+   "accept": [
+    "unit-online-class",
+    "online-attendance"
+   ]
+  },
+  {
+   "qid": 99,
+   "split": "test",
+   "question": "How do I apply for an access plan/",
+   "accept": [
+    "access-inclusion"
+   ]
+  },
+  {
+   "qid": 97,
+   "split": "test",
+   "question": "Hi, I want to meet a lecturer from CDU to sign a declaration form. How can i arrange this?",
+   "accept": [
+    "lib-contact-lecturer",
+    "lib-find-lecturer-s-office",
+    "lib-lecturer-s-office"
+   ]
+  },
+  {
+   "qid": 94,
+   "split": "dev",
+   "question": "Hi I am studying bachelor of software engineering. In my course structure there is one elective unit worth 10 credit that I have to finish, but the unit code isn't mentioned in there so how do i enroll there?",
+   "accept": [
+    "enrolling-help",
+    "study-plan"
+   ]
+  },
+  {
+   "qid": 90,
+   "split": "dev",
+   "question": "Hi..I am student of master of information technology in information systems.I want to take one unit online.Can I take that now?",
+   "accept": []
+  },
+  {
+   "qid": 89,
+   "split": "test",
+   "question": "Hello I am a new student in Master of Nursing(Pre-registration). How best can I contact my course coordinator, where can I get the contact information?",
+   "accept": [
+    "lib-find-lecturer-s-office",
+    "lib-contact-lecturer",
+    "lib-lecturer-s-office"
+   ]
+  },
+  {
+   "qid": 86,
+   "split": "dev",
+   "question": "How do I apply for a student ID card",
+   "accept": [
+    "student-card",
+    "student-card-online"
+   ]
+  },
+  {
+   "qid": 85,
+   "split": "test",
+   "question": "hi, in cdu portal i.ts the green bar showing need to update your enrolment todays . what i need to update. i checked my enrollment",
+   "accept": [
+    "enrolling-help"
+   ]
+  },
+  {
+   "qid": 81,
+   "split": "test",
+   "question": "Hi, Can anyone tell me if there is a student services I can contact, in regard to getting help from the university with signing proof of enrollment documents? much appreciated, thank you",
+   "accept": [
+    "student-central",
+    "who-to-contact"
+   ]
+  },
+  {
+   "qid": 79,
+   "split": "test",
+   "question": "hi,how many courses i take in first semaster?",
+   "accept": [
+    "study-load",
+    "study-plan"
+   ]
+  },
+  {
+   "qid": 77,
+   "split": "test",
+   "question": "Hi, can anyone tell me if I need to get approval to do two courses concurrently? I am already enrolled in both but would like to check that this is okay.",
+   "accept": []
+  },
+  {
+   "qid": 75,
+   "split": "test",
+   "question": "Hello, I am an international student studying Bachelor of Biomedical Science. I heard that we can study 1/3 of our course online... Can you pls explain how that 1/3 works out? I have 24 units for my entire course does that mean I can study 8 units online or how? Your explanation would be much appreciated. Thanks in advance!",
+   "accept": []
+  },
+  {
+   "qid": 73,
+   "split": "test",
+   "question": "hi i am 2nd year external nursing student was trying to book SIM for 2nd year , can someone please help where can i access? do i need to provide serology reports, mask fits etc to book the sim? thanks",
+   "accept": [
+    "placements-inplace",
+    "lib-who-contact-about-nursing-sim-block"
+   ]
+  },
+  {
+   "qid": 70,
+   "split": "dev",
+   "question": "I'm a new external student working fulltime and not able to attend lectures or workshops live - how do I manage this ? Am I able to access these as recordings and how will this affect my attendance ? I'm very new to navigating the portal and appreciate any help. Many thanks !",
+   "accept": [
+    "online-attendance",
+    "unit-recordings"
+   ]
+  },
+  {
+   "qid": 68,
+   "split": "dev",
+   "question": "Hello I want to set up a signature block on my student email is their advice or guidance on how to set this up. Thank you",
+   "accept": []
+  },
+  {
+   "qid": 64,
+   "split": "dev",
+   "question": "Hi there, I am a new student and studying nursing. I enrolled yesterday but can't seem to find the placement app on my portal.",
+   "accept": [
+    "placements-inplace"
+   ]
+  },
+  {
+   "qid": 63,
+   "split": "test",
+   "question": "Hi there a silly question from new student… where can I find my timetable…?",
+   "accept": [
+    "timetable"
+   ]
+  },
+  {
+   "qid": 62,
+   "split": "dev",
+   "question": "Hii !! I am studying MBA sustainable leadership I just want to know when we can enroll in the next semester as I have completed summer semester and how many units I will have to cover in the upcoming semester",
+   "accept": [
+    "enrolling-help",
+    "study-plan",
+    "study-load",
+    "dates-2027",
+    "dates-s1-2026"
+   ]
+  },
+  {
+   "qid": 54,
+   "split": "dev",
+   "question": "Is there a template for assessments",
+   "accept": [
+    "writing-referencing-help",
+    "lib-you-help-me-with-writing-understanding",
+    "lib-structure-write-essay",
+    "lib-structure-write-report"
+   ]
+  },
+  {
+   "qid": 53,
+   "split": "test",
+   "question": "I also wanted to know that can I attend orientation online?",
+   "accept": [
+    "orientation-attend"
+   ]
+  },
+  {
+   "qid": 52,
+   "split": "dev",
+   "question": "how to find course details from course catalogue",
+   "accept": [
+    "lib-find-course-information",
+    "study-plan"
+   ]
+  },
+  {
+   "qid": 51,
+   "split": "test",
+   "question": "How do I compress 4 units to 3 days a week for Bachelor in Nursing program? I don't know how to fix my timetable yet",
+   "accept": []
+  },
+  {
+   "qid": 50,
+   "split": "dev",
+   "question": "How can i apply for student card in the portal? I donot see any recommendations in the portal. Thanks.",
+   "accept": [
+    "student-card-online",
+    "student-card"
+   ]
+  },
+  {
+   "qid": 49,
+   "split": "test",
+   "question": "For the subject code HiT137 there is no timeline in sydney. Will this be updated?",
+   "accept": [
+    "timetable-not-ready"
+   ]
+  },
+  {
+   "qid": 48,
+   "split": "dev",
+   "question": "Whats an N&M clearence - thanks",
+   "accept": [
+    "placements-inplace"
+   ]
+  },
+  {
+   "qid": 44,
+   "split": "dev",
+   "question": "Are the lectures recorded? One of my lectures runs from 5:30-7:30, it's the only available time, but it clashes with sporting obligations that I have. Will I be able to watch the lecture online the next morning, or will I have to attend?",
+   "accept": [
+    "unit-recordings",
+    "online-attendance"
+   ]
+  },
+  {
+   "qid": 43,
+   "split": "test",
+   "question": "Hi I am an external student , doing only 2 classes but my Timetable has a clash on those two classes. What can I do to resolve this? Do I need to change subjects? they are both core subjects",
+   "accept": [
+    "online-attendance",
+    "unit-recordings"
+   ]
+  },
+  {
+   "qid": 39,
+   "split": "test",
+   "question": "Hi! I have checked out my timetable and have a bunch of lectures and tutorials on work days. Are these recorded and able to be watched later or do I have to attend at the allocated times?",
+   "accept": [
+    "online-attendance",
+    "unit-recordings"
+   ]
+  },
+  {
+   "qid": 33,
+   "split": "test",
+   "question": "Hi can someone please send me a link for fitness to practice form and criminal record screening application. I tried to find it but I am unable to find it in the forms. Thank you",
+   "accept": [
+    "placements-inplace"
+   ]
+  },
+  {
+   "qid": 30,
+   "split": "dev",
+   "question": "Sorry for the silly question but are new students sent out a welcome pack before orientation starts? If so, is it just for students attending campus or for external studies as well?",
+   "accept": [
+    "orientation-attend"
+   ]
+  },
+  {
+   "qid": 29,
+   "split": "test",
+   "question": "Is the orientation day the same day that the teaching starts? which would mean March 3?",
+   "accept": [
+    "orientation-attend",
+    "dates-s1-2026"
+   ]
+  },
+  {
+   "qid": 27,
+   "split": "test",
+   "question": "I'm unable to add units for this semester. please help",
+   "accept": [
+    "enrolling-help"
+   ]
+  },
+  {
+   "qid": 25,
+   "split": "test",
+   "question": "I'm having a lot of trouble understanding CDU's time tabling system - I've tried to look up instructions on Sharepoint but the only documents available seem to be outdated. I'm trying to figure out the following: 1. Will I be allocated a class time or can I pick between class times for the same unit (assuming there is more than one class for the same unit)? 2. How can I then see my personal time table so that I can organise my work schedule around this. I'm feeling super frustrated and lost :(",
+   "accept": [
+    "timetable",
+    "timetable-not-ready"
+   ]
+  },
+  {
+   "qid": 21,
+   "split": "test",
+   "question": "Hi where can I find inplace? Thank you",
+   "accept": [
+    "placements-inplace"
+   ]
+  },
+  {
+   "qid": 20,
+   "split": "dev",
+   "question": "Hi there I have tried to enrol in both Sem 1 and Sem 2 - the subject I picked for Sem 2 NUR 565 required me to do NIR 564 however I want to do NUR 563 - it seems if I do NUR 563 I am not eligible to do either NUR 565 or NUR 565 ??? so what can I do in the second semester as there are not other options in the course outline for UPH CN1",
+   "accept": [
+    "enrolling-help",
+    "study-plan",
+    "student-central"
+   ]
+  },
+  {
+   "qid": 17,
+   "split": "test",
+   "question": "Hi there, I’ve tried enrolling in my units for Semester 1 but it keeps telling me that the units I want to enrol in can’t be found. Are enrolments not open yet? The units I would like to enrol in should be offered in semester 1 as the study plan lists them for semester 1. Thank you ☺️",
+   "accept": [
+    "enrolling-help",
+    "student-central"
+   ]
+  },
+  {
+   "qid": 16,
+   "split": "dev",
+   "question": "Hey where do I get my course study plan including semester dates",
+   "accept": [
+    "study-plan",
+    "lib-important-dates",
+    "dates-s1-2026",
+    "dates-2027"
+   ]
+  },
+  {
+   "qid": 14,
+   "split": "dev",
+   "question": "Hello, how can I access the scheduled days of my classes? Also do I need to enroll in classes for the entire year or just the semester?",
+   "accept": [
+    "timetable",
+    "study-load",
+    "enrolling-help"
+   ]
+  },
+  {
+   "qid": 12,
+   "split": "dev",
+   "question": "when is week 1 semester 1 2025. need to sort my calendar sooner rather than later.",
+   "accept": [
+    "dates-s1-2026",
+    "dates-2027",
+    "lib-important-dates"
+   ]
+  },
+  {
+   "qid": 10,
+   "split": "dev",
+   "question": "When is the 2025 graduation ceremonies for HDR students",
+   "accept": []
+  },
+  {
+   "qid": 8,
+   "split": "dev",
+   "question": "English support: class face to face to improve tools, skills and add level faster than in the normal class",
+   "accept": [
+    "english-improvement"
+   ]
+  },
+  {
+   "qid": 6,
+   "split": "dev",
+   "question": "Any support class for international student in CDU? Thanks!",
+   "accept": [
+    "iss-support"
+   ]
+  },
+  {
+   "qid": 1,
+   "split": "test",
+   "question": "Where can I get something to eat on campus ?",
+   "accept": [
+    "lib-get-food",
+    "lib-food-outlets-on-campus-when-they",
+    "danala-food"
+   ]
+  }
+ ]
+}

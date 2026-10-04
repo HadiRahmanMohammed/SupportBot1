@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en-AU">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex">
+  <title>Staff dashboard</title>
+  <link rel="icon" href="{{ url_for('static', filename='icon.svg') }}" type="image/svg+xml">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,650;12..96,750&family=Figtree:wght@400;600&display=swap">
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+  <link rel="stylesheet" href="{{ url_for('static', filename='admin.css') }}">
+</head>
+<body>
+  <div class="aurora" aria-hidden="true"><i></i><i></i><i></i><i></i></div>
+  <main class="dash">
+    <header class="dash-head">
+      <h1>Staff dashboard</h1>
+      <p>{{ brand_name }}: what students asked and where the assistant fell short.
+        {% if s.first_ts %}Covers {{ s.first_ts[:10] }} to {{ s.last_ts[:10] }}.{% endif %}</p>
+      {% if not logging_on %}
+        <p class="warn glass">Logging is off, so nothing new is being recorded. Set <code>LOG_INTERACTIONS=true</code> to collect masked questions for this dashboard.</p>
+      {% endif %}
+    </header>
+
+    <section class="stats">
+      <div class="stat glass"><b>{{ s.total }}</b><span>questions asked</span></div>
+      <div class="stat glass"><b>{{ s.answered_pct }}%</b><span>answered directly</span></div>
+      <div class="stat glass"><b>{{ s.clarify_pct }}%</b><span>needed "Did you mean"</span></div>
+      <div class="stat glass"><b>{{ s.fallback_pct }}%</b><span>sent to Student Central</span></div>
+      <div class="stat glass"><b>{{ s.helpful_pct if s.helpful_pct is not none else "–" }}{% if s.helpful_pct is not none %}%{% endif %}</b><span>rated helpful ({{ s.feedback_total }} ratings)</span></div>
+      <div class="stat glass"><b>{{ s.voice }}</b><span>asked by voice</span></div>
+      <div class="stat glass"><b>{{ s.handoff }}</b><span>personal-record handoffs</span></div>
+      <div class="stat glass"><b>{{ s.crisis }}</b><span>crisis messages</span></div>
+    </section>
+
+    <section class="panel glass">
+      <h2>Suggested new FAQs</h2>
+      <p class="lead">Unanswered questions grouped by topic. The biggest groups are where a new FAQ would help most students.</p>
+      {% if s.suggested_topics %}
+      <ol class="rank topics">{% for t in s.suggested_topics %}
+        <li><span><strong>{{ t.topic }}</strong><br><small>{% for e in t.examples %}“{{ e[:110] }}”{% if not loop.last %}<br>{% endif %}{% endfor %}</small></span><b>{{ t.count }}</b></li>
+      {% endfor %}</ol>
+      {% else %}<p class="empty">Not enough unanswered questions to group yet.</p>{% endif %}
+    </section>
+
+    <section class="panel glass">
+      <h2>Questions the assistant couldn't answer</h2>
+      <p class="lead">Add good ones to the knowledge base as new FAQs or as alternative phrasings. Personal details were masked before saving.</p>
+      {% if s.gaps %}
+      <div class="table-wrap"><table>
+        <thead><tr><th>Question</th><th>Result</th><th>Closest FAQ</th><th>Score</th><th>When (UTC)</th></tr></thead>
+        <tbody>
+        {% for g in s.gaps %}
+          <tr><td>{{ g.q }}</td><td>{{ "Did you mean" if g.route == "clarify" else "Sent to Student Central" }}</td>
+              <td>{{ g.best }}</td><td>{{ g.score }}</td><td>{{ g.ts[:16].replace("T", " ") }}</td></tr>
+        {% endfor %}
+        </tbody>
+      </table></div>
+      {% else %}<p class="empty">Nothing yet. Unanswered questions will appear here.</p>{% endif %}
+    </section>
+
+    <div class="two">
+      <section class="panel glass">
+        <h2>Most asked</h2>
+        {% if s.top %}<ol class="rank">{% for t in s.top %}<li><span>{{ t.question }}</span><b>{{ t.count }}</b></li>{% endfor %}</ol>
+        {% else %}<p class="empty">No answered questions yet.</p>{% endif %}
+      </section>
+      <section class="panel glass">
+        <h2>Marked not helpful</h2>
+        {% if s.unhelpful %}<ol class="rank">{% for t in s.unhelpful %}<li><span>{{ t.question }}</span><b>{{ t.count }}</b></li>{% endfor %}</ol>
+        {% else %}<p class="empty">No negative ratings yet.</p>{% endif %}
+      </section>
+    </div>
+  </main>
+</body>
+</html>
